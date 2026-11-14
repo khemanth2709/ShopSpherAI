@@ -204,32 +204,32 @@ function ProductPhotosAdmin() {
         <header className="mt-6 rounded-3xl bg-ink p-6 text-white sm:p-8">
           <p className="text-[10px] font-bold uppercase tracking-[.2em] text-emerald-200">Catalogue media</p>
           <h1 className="mt-2 text-3xl font-semibold tracking-tight">Real product photographs</h1>
-          <p className="mt-3 max-w-3xl text-sm leading-6 text-white/65">Search openly licensed photographs for each catalogue item, review the source and licence, then assign the image to that exact product. You can also upload photos provided by your manufacturer or supplier.</p>
+          <p className="mt-3 max-w-3xl text-sm leading-6 text-white/65">Search openly licensed photographs for each catalogue item, review the source and licence, then assign the image to that exact SKU.</p>
         </header>
 
         <section className="mt-6 rounded-2xl border border-emerald-200 bg-emerald-50 p-4 sm:p-5">
           <h2 className="text-sm font-bold text-emerald-950">Bulk-fill catalogue photo placeholders</h2>
-          <p className="mt-1 text-xs leading-5 text-emerald-900/80">On the computer running ShopSphere, run <code className="rounded bg-white px-1.5 py-0.5">npm run photos:import -- --limit=750</code>. The importer searches Openverse for commercially usable photographs, downloads matches into local storage, and saves creator/source/licence credits in SQLite. It never overwrites an existing supplier or manually assigned image and skips products without a relevant match.</p>
-          <p className="mt-2 text-[10px] leading-4 text-emerald-900/70">Openverse is an external image catalogue, so imported photographs require an internet connection. Review each result for exact SKU/brand accuracy before using it in a real commercial catalogue.</p>
+          <p className="mt-1 text-xs leading-5 text-emerald-900/80">On the computer running ShopSphere, run <code className="rounded bg-white px-1.5 py-0.5">npm run photos:import -- --limit=750</code> to seed placeholder product images from Openverse.</p>
+          <p className="mt-2 text-[10px] leading-4 text-emerald-900/70">Openverse is an external image catalogue, so imported photographs require an internet connection. Review each result for exact matching, commercial use rights and brand consistency before assigning it to the live catalogue.</p>
         </section>
 
         <section className="mt-6 rounded-3xl border border-black/[.06] bg-white p-5 sm:p-7">
           <div className="flex flex-wrap items-center justify-between gap-3">
-            <div><h2 className="text-lg font-semibold">Find a real product photograph</h2><p className="mt-1 text-xs leading-5 text-black/50">Search Openverse for large, openly licensed photographs suitable for commercial use. Amazon and Flipkart listing photos are not copied or scraped.</p></div>
+            <div><h2 className="text-lg font-semibold">Find a real product photograph</h2><p className="mt-1 text-xs leading-5 text-black/50">Search Openverse for large, openly licensed photographs that match your listing and intended SKU.</p></div>
             <span className="rounded-full bg-emerald-50 px-3 py-1.5 text-[10px] font-bold text-emerald-800">Commercial-use filter</span>
           </div>
 
           <div className="mt-5 grid gap-3 md:grid-cols-[minmax(0,1fr)_minmax(0,1.4fr)]">
             <label className="grid gap-1.5 text-xs font-semibold">Select product
-              <select value={selectedProductId} onChange={(event) => selectProduct(event.target.value)} disabled={productsLoading || products.length === 0} className="h-11 rounded-xl border border-black/10 bg-white px-3 text-sm font-medium">
+              <select value={selectedProductId} onChange={(event) => selectProduct(event.target.value)} disabled={productsLoading || products.length === 0} className="h-11 rounded-xl border border-black/10 bg-slate-50 px-3 text-sm text-ink outline-none ring-0 transition focus:border-moss">
                 {productsLoading && <option>Loading products…</option>}
                 {!productsLoading && products.length === 0 && <option>No products found</option>}
                 {filteredProducts.map((product) => <option key={product.id} value={product.id}>{product.id} · {product.name} ({product.category})</option>)}
               </select>
-              <input value={productFilter} onChange={(event) => setProductFilter(event.target.value)} placeholder="Filter product list by name or ID" className="h-10 rounded-xl border border-black/10 px-3 text-xs font-normal" />
+              <input value={productFilter} onChange={(event) => setProductFilter(event.target.value)} placeholder="Filter product list by name or ID" className="h-10 rounded-xl border border-black/10 bg-slate-50 px-3 text-sm text-ink outline-none transition focus:border-moss"/>
             </label>
             <label className="grid gap-1.5 text-xs font-semibold">Photo search terms
-              <div className="flex gap-2"><input value={imageQuery} onChange={(event) => setImageQuery(event.target.value)} onKeyDown={(event) => { if (event.key === 'Enter') { event.preventDefault(); void searchLicensedPhotos(); } }} placeholder="e.g. black over-ear wireless headphones product" className="h-11 min-w-0 flex-1 rounded-xl border border-black/10 px-3 text-sm font-normal"/><button type="button" onClick={() => void searchLicensedPhotos()} disabled={searching || !selectedProductId} className="inline-flex h-11 shrink-0 items-center gap-2 rounded-xl bg-ink px-4 text-xs font-bold text-white hover:bg-moss disabled:opacity-50">{searching ? <Loader2 size={15} className="animate-spin"/> : <Search size={15}/>} Search photos</button></div>
+              <div className="flex gap-2"><input value={imageQuery} onChange={(event) => setImageQuery(event.target.value)} onKeyDown={(event) => { if (event.key === 'Enter') { event.preventDefault(); void searchLicensedPhotos(); } }} placeholder="e.g. red ceramic mug product photo" className="h-11 flex-1 rounded-xl border border-black/10 bg-slate-50 px-3 text-sm text-ink outline-none transition focus:border-moss"/><button type="button" onClick={() => void searchLicensedPhotos()} disabled={searching} className="rounded-xl bg-ink px-4 py-2.5 text-xs font-bold text-white disabled:cursor-not-allowed disabled:opacity-60">{searching ? 'Searching…' : 'Search'}</button></div>
               <span className="text-[10px] font-normal text-black/45">Tip: include colour, model or material when you know it. Confirm that the photograph matches the item you actually sell.</span>
             </label>
           </div>
@@ -247,32 +247,32 @@ function ProductPhotosAdmin() {
                   <p className="mt-1 text-[10px] text-black/55">By {photo.creator}</p>
                   <p className="mt-1 text-[10px] font-bold text-emerald-800">{photo.license}{photo.licenseVersion ? ` ${photo.licenseVersion}` : ''}</p>
                   <div className="mt-3 flex items-center justify-between gap-2">
-                    <a href={photo.sourceUrl} target="_blank" rel="noopener noreferrer" className="inline-flex items-center gap-1 text-[10px] font-semibold text-moss underline underline-offset-2">Source <ExternalLink size={11}/></a>
-                    <button type="button" onClick={() => void assignPhoto(photo)} disabled={Boolean(assigningId)} className="rounded-full bg-ink px-3 py-2 text-[10px] font-bold text-white hover:bg-moss disabled:opacity-45">{assigningId === photo.id ? 'Saving…' : 'Use this photo'}</button>
+                    <a href={photo.sourceUrl} target="_blank" rel="noopener noreferrer" className="inline-flex items-center gap-1 text-[10px] font-semibold text-moss underline underline-offset-2"><ExternalLink size={12}/> Source</a>
+                    <button type="button" onClick={() => void assignPhoto(photo)} disabled={Boolean(assigningId)} className="rounded-full bg-ink px-3 py-2 text-[10px] font-bold text-white hover:bg-moss disabled:cursor-not-allowed disabled:opacity-60">{assigningId === photo.id ? 'Saving…' : 'Assign photo'}</button>
                   </div>
                 </div>
               </article>)}
             </div>
           </div>}
-          <p className="mt-5 rounded-xl bg-amber-50 p-3 text-[10px] leading-5 text-amber-900">Openly licensed does not mean the photograph depicts the exact SKU. Check the image and licence/source page before assigning it. For an exact branded product, prefer a manufacturer/distributor image or an image taken by your store.</p>
+          <p className="mt-5 rounded-xl bg-amber-50 p-3 text-[10px] leading-5 text-amber-900">Openly licensed does not mean the photograph depicts the exact SKU. Check the image and licence/source carefully before assigning it to your product.</p>
         </section>
 
         <section className="mt-6 rounded-3xl border border-black/[.06] bg-white p-5 sm:p-7">
           <h2 className="text-lg font-semibold">Bulk upload your own supplier photographs</h2>
-          <p className="mt-2 text-sm leading-6 text-black/55">Name each file with its exact product ID. For example, <b>p-001.jpg</b> updates product <b>p-001</b>. Accepted formats: JPG, PNG, WebP. Maximum 5 MB per image.</p>
+          <p className="mt-2 text-sm leading-6 text-black/55">Name each file with its exact product ID. For example, <b>p-001.jpg</b> updates product <b>p-001</b>. Accepted formats: JPG, PNG, WebP. Max file size: 5 MB.</p>
           <label className="mt-5 flex min-h-40 cursor-pointer flex-col items-center justify-center rounded-2xl border-2 border-dashed border-moss/30 bg-sage/20 p-6 text-center hover:bg-sage/35">
-            <UploadCloud size={30} className="text-moss"/><span className="mt-3 text-sm font-bold">Choose product photographs</span><span className="mt-1 text-xs text-black/45">Select multiple files at once</span>
+            <UploadCloud size={30} className="text-moss"/><span className="mt-3 text-sm font-bold">Choose product photographs</span><span className="mt-1 text-xs text-black/45">Select multiple files from your computer.</span>
             <input type="file" multiple accept="image/jpeg,image/png,image/webp" className="sr-only" onChange={(event) => chooseFiles(event.target.files)}/>
           </label>
 
           {files.length > 0 && <div className="mt-5">
-            <div className="flex flex-wrap items-center justify-between gap-2"><p className="text-xs font-bold">Selected files: {files.length} · Valid: {validFiles.length} · Invalid: {invalidCount}</p><button type="button" onClick={() => { setFiles([]); setResults([]); setProgress(0); setError(''); }} disabled={busy} className="text-xs font-bold text-rose-600 disabled:opacity-40">Clear selection</button></div>
-            <div className="mt-3 max-h-64 overflow-y-auto rounded-xl border border-black/10">{parsed.map((item) => <div key={`${item.file.name}-${item.file.lastModified}`} className="flex items-center gap-3 border-b border-black/5 px-3 py-2.5 last:border-0"><ImagePlus size={15} className="text-moss"/><span className="min-w-0 flex-1 truncate text-xs">{item.file.name}</span><span className="text-[10px] text-black/40">{(item.file.size / 1024 / 1024).toFixed(2)} MB</span><span className={`text-[10px] font-bold ${item.valid ? 'text-emerald-700' : 'text-rose-600'}`}>{item.valid ? item.productId : 'Invalid file'}</span></div>)}</div>
-            <button type="button" onClick={() => void uploadAll()} disabled={busy || validFiles.length === 0} className="mt-4 flex w-full items-center justify-center gap-2 rounded-full bg-ink px-5 py-3 text-sm font-bold text-white hover:bg-moss disabled:opacity-45"><UploadCloud size={16}/>{busy ? `Uploading ${progress}/${validFiles.length}…` : `Upload ${validFiles.length} product photos`}</button>
+            <div className="flex flex-wrap items-center justify-between gap-2"><p className="text-xs font-bold">Selected files: {files.length} · Valid: {validFiles.length} · Invalid: {invalidCount}</p><button type="button" onClick={() => setFiles([])} className="text-[10px] font-bold text-moss underline">Clear</button></div>
+            <div className="mt-3 max-h-64 overflow-y-auto rounded-xl border border-black/10">{parsed.map((item) => <div key={`${item.file.name}-${item.file.lastModified}`} className="flex items-center justify-between gap-3 border-b border-black/5 px-3 py-2 last:border-b-0"><div className="min-w-0"><p className="truncate text-[11px] font-semibold">{item.file.name}</p><p className="mt-0.5 text-[10px] text-black/45">{item.valid ? 'Valid product image' : 'Invalid file name, format or size'}</p></div><span className={`rounded-full px-2 py-1 text-[9px] font-bold ${item.valid ? 'bg-emerald-50 text-emerald-700' : 'bg-rose-50 text-rose-600'}`}>{item.valid ? 'OK' : 'Fix'}</span></div>)}</div>
+            <button type="button" onClick={() => void uploadAll()} disabled={busy || validFiles.length === 0} className="mt-4 flex w-full items-center justify-center gap-2 rounded-full bg-ink px-4 py-3 text-sm font-bold text-white disabled:cursor-not-allowed disabled:opacity-60">{busy ? <><Loader2 size={16} className="animate-spin"/> Uploading…</> : 'Upload selected photographs'}</button>
           </div>}
           {error && <p role="alert" className="mt-4 rounded-xl bg-rose-50 p-3 text-xs text-rose-700">{error}</p>}
-          {results.length > 0 && <div className="mt-5 rounded-2xl border border-black/10 p-4"><div className="flex flex-wrap gap-4 text-xs font-bold"><span className="text-emerald-700">Successful: {succeeded}</span><span className="text-rose-700">Failed: {failed}</span></div><div className="mt-3 max-h-64 space-y-2 overflow-y-auto">{results.map((result) => <div key={`${result.productId}-${result.file}`} className="flex items-start gap-2 text-xs"><span className="mt-0.5">{result.status === 'success' ? <CheckCircle2 size={14} className="text-emerald-600"/> : <XCircle size={14} className="text-rose-600"/>}</span><span className="min-w-0 flex-1"><b>{result.file}</b><span className="block text-[10px] text-black/50">{result.message}</span></span></div>)}</div></div>}
-          <p className="mt-5 text-[11px] leading-5 text-black/45">Uploaded images are stored on this application's local disk in public/uploads/product-images. Upload permissions remain restricted to authenticated ShopSphere administrators.</p>
+          {results.length > 0 && <div className="mt-5 rounded-2xl border border-black/10 p-4"><div className="flex flex-wrap gap-4 text-xs font-bold"><span className="text-emerald-700">Successful: {succeeded}</span><span className="text-rose-600">Failed: {failed}</span></div><div className="mt-3 space-y-2">{results.map((result) => <div key={`${result.file}-${result.productId}`} className="flex items-start justify-between gap-3 rounded-xl bg-slate-50 px-3 py-2"><div><p className="text-[11px] font-semibold">{result.productId} · {result.file}</p><p className="mt-0.5 text-[10px] text-black/55">{result.message}</p></div><span className={`inline-flex items-center gap-1 rounded-full px-2 py-1 text-[9px] font-bold ${result.status === 'success' ? 'bg-emerald-50 text-emerald-700' : 'bg-rose-50 text-rose-600'}`}>{result.status === 'success' ? <CheckCircle2 size={10}/> : <XCircle size={10}/>} {result.status}</span></div>)}</div></div>}
+          <p className="mt-5 text-[11px] leading-5 text-black/45">Uploaded images are stored on this application&apos;s local disk in public/uploads/product-images. Upload permissions remain restricted to the admin role and the active catalogue tenant.</p>
         </section>
       </div>
     </main>
