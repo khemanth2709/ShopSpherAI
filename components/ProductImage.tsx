@@ -1,5 +1,6 @@
 'use client';
 
+import Image from 'next/image';
 import { useEffect, useState } from 'react';
 
 type ProductImageProps = {
@@ -44,15 +45,16 @@ export default function ProductImage({
   }, [isRemote, loadedSource, resolvedSrc, timedOutSource]);
 
   return (
-    <img
+    <Image
       src={currentSrc}
       alt={alt}
+      width={1200}
+      height={1200}
       loading={loading}
-      sizes={sizes}
-      fetchPriority={loading === 'eager' ? 'high' : 'auto'}
+      sizes={sizes ?? '100vw'}
+      priority={loading === 'eager'}
       className={className}
-      decoding="async"
-      referrerPolicy="strict-origin-when-cross-origin"
+      unoptimized={isRemote}
       onLoad={() => { setLoadedSource(resolvedSrc); }}
       onError={() => {
         if (currentSrc === fallbackSrc) return;

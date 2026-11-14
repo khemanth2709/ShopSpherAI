@@ -2,8 +2,9 @@
 
 import { useEffect, useMemo, useState } from 'react';
 import { useQueryClient } from '@tanstack/react-query';
+import Image from 'next/image';
 import Link from 'next/link';
-import { ArrowLeft, CheckCircle2, ExternalLink, ImagePlus, Loader2, Search, UploadCloud, XCircle } from 'lucide-react';
+import { ArrowLeft, CheckCircle2, ExternalLink, Loader2, UploadCloud, XCircle } from 'lucide-react';
 import RequireAuth from '@/components/RequireAuth';
 import { createClient, isDatabaseReady } from '@/lib/database/client';
 
@@ -33,7 +34,6 @@ function ProductPhotosAdmin() {
   const [files, setFiles] = useState<File[]>([]);
   const [results, setResults] = useState<UploadResult[]>([]);
   const [busy, setBusy] = useState(false);
-  const [progress, setProgress] = useState(0);
   const [error, setError] = useState('');
 
   useEffect(() => {
@@ -136,7 +136,6 @@ function ProductPhotosAdmin() {
     if (!list) return;
     setResults([]);
     setError('');
-    setProgress(0);
     setFiles(Array.from(list));
   }
 
@@ -163,7 +162,6 @@ function ProductPhotosAdmin() {
     for (const item of validFiles.filter((entry) => !existingIds.has(entry.productId))) {
       uploadedResults.push({ file: item.file.name, productId: item.productId, status: 'error', message: 'No matching product ID exists in the SQLite catalogue.' });
     }
-    setProgress(uploadedResults.length);
 
     for (let start = 0; start < tasks.length; start += 4) {
       const batch = tasks.slice(start, start + 4);
@@ -187,7 +185,6 @@ function ProductPhotosAdmin() {
       }));
       uploadedResults.push(...batchResults);
       setResults([...uploadedResults]);
-      setProgress(uploadedResults.length);
     }
     setResults(uploadedResults);
     await queryClient.invalidateQueries({ queryKey: ['products'] });
@@ -241,7 +238,9 @@ function ProductPhotosAdmin() {
             <p className="mb-3 text-xs font-bold">Search results for {selectedProduct?.name} · {imageResults.length} photographs</p>
             <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
               {imageResults.map((photo) => <article key={photo.id} className="overflow-hidden rounded-2xl border border-black/10 bg-white">
-                <div className="aspect-[4/3] bg-slate-100"><img src={photo.thumbnail} alt={photo.title} loading="lazy" className="h-full w-full object-contain" referrerPolicy="strict-origin-when-cross-origin"/></div>
+                <div className="aspect-[4/3] bg-slate-100">
+                  <Image src={photo.thumbnail} alt={photo.title} width={800} height={600} className="h-full w-full object-contain" unoptimized />
+                </div>
                 <div className="p-3">
                   <p className="line-clamp-2 text-xs font-semibold">{photo.title}</p>
                   <p className="mt-1 text-[10px] text-black/55">By {photo.creator}</p>
@@ -282,3 +281,4 @@ function ProductPhotosAdmin() {
 export default function AdminProductPhotosPage() {
   return <RequireAuth role="admin"><ProductPhotosAdmin/></RequireAuth>;
 }
+
