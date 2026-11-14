@@ -1,0 +1,41 @@
+'use client';
+
+import { useCallback, useEffect, useState } from 'react';
+import Link from 'next/link';
+import { ArrowLeft, RefreshCw, RotateCcw } from 'lucide-react';
+import RequireAuth from '@/components/RequireAuth';
+import { formatPrice } from '@/lib/products';
+
+type ReturnRow = { id: string; order_id: string; reason: string; description: string; status: string; refund_status: string; refund_amount: number | string; refund_reference: string | null; admin_note: string | null; requested_at: string; orders: { order_number: string; customer_name: string; customer_email: string; customer_phone: string; total_amount: number | string; payment_status: string; status: string } | Array<{ order_number: string; customer_name: string; customer_email: string; customer_phone: string; total_amount: number | string; payment_status: string; status: string }> | null };
+function getOrder(row: ReturnRow) { return Array.isArray(row.orders) ? row.orders[0] ?? null : row.orders ?? null; }
+function AdminReturnsContent() {
+  const [rows, setRows] = useState<ReturnRow[]>([]);
+  const [loading, setLoading] = useState(true);
+  const [busy, setBusy] = useState<string | null>(null);
+  const [error, setError] = useState('');
+  const [notice, setNotice] = useState('');
+  const [notes, setNotes] = useState<Record<string, string>>({});
+  const [references, setReferences] = useState<Record<string, string>>({});
+  const [amounts, setAmounts] = useState<Record<string, string>>({});
+  const load = useCallback(async () => {
+    setError('');
+    try { const response = await fetch('/api/admin/returns', { cache: 'no-store' }); const payload = await response.json() as { returns?: ReturnRow[]; error?: string }; if (!response.ok) throw new Error(payload.error || 'Could not load returns.'); setRows(payload.returns ?? []); }
+    catch (loadError) { setError(loadError instanceof Error ? loadError.message : 'Could not load returns.'); }
+    finally { setLoading(false); }
+  }, []);
+  useEffect(() => { void load(); }, [load]);
+  async function update(row: ReturnRow, status: string) {
+    const order = getOrder(row);
+    if (status === 'completed' && order?.payment_status === 'paid' && !references[row.id]?.trim()) { setError('Enter the manual refund reference before completing this paid COD return.'); return; }
+    setBusy(row.id); setError(''); setNotice('');
+    try {
+      const response = await fetch(`/api/admin/returns/${row.id}`, { method: 'PATCH', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify({ status, note: notes[row.id] ?? '', refundReference: references[row.id] ?? '', refundAmount: amounts[row.id] ? Number(amounts[row.id]) : undefined }) });
+      const payload = await response.json() as { error?: string };
+      if (!response.ok) throw new Error(payload.error || 'Could not update return.');
+      setNotice(`Return for ${order?.order_number ?? 'order'} updated to ${status}.`); await load();
+    } catch (updateError) { setError(updateError instanceof Error ? updateError.message : 'Could not update return.'); }
+    finally { setBusy(null); }
+  }
+  return <RequireAuth role="admin"><main className="min-h-screen bg-[#f5f6f3] text-ink"><header className="flex h-[72px] items-center justify-between border-b border-black/[.06] bg-white px-4 sm:px-7"><div><p className="text-xs text-black/45">Workspace / Returns</p><h1 className="font-bold">Returns and COD refunds</h1></div><button onClick={() => void load()} className="pill-button border border-ink/10"><RefreshCw size={14}/> Refresh</button></header><div className="mx-auto max-w-6xl px-4 py-7 sm:px-7"><Link href="/admin" className="inline-flex items-center gap-2 text-xs font-semibold text-moss"><ArrowLeft size={14}/> Store overview</Link><div className="mt-5"><p className="eyebrow text-moss">After-sales operations</p><h2 className="mt-2 text-3xl font-semibold">Return requests</h2><p className="mt-2 text-sm text-ink/55">Review requests, approve returns and record manual refunds when COD cash has already been collected.</p></div>{notice && <p role="status" className="mt-5 rounded-xl bg-emerald-50 p-3 text-xs text-emerald-800">{notice}</p>}{error && <p role="alert" className="mt-5 rounded-xl bg-rose-50 p-3 text-xs text-rose-700">{error}</p>}{loading && <p className="mt-6 rounded-xl bg-white p-5 text-sm">Loading return requests…</p>}{!loading && rows.length === 0 && <div className="mt-6 rounded-2xl border border-dashed border-ink/15 bg-white p-10 text-center"><RotateCcw className="mx-auto text-ink/35"/><h3 className="mt-3 font-semibold">No return requests</h3><p className="mt-1 text-xs text-ink/50">Customer requests will appear here.</p></div>}{!loading && rows.length > 0 && <div className="mt-6 space-y-4">{rows.map((row) => { const order = getOrder(row); const canApprove = row.status === 'requested'; const canReceive = row.status === 'approved'; const canComplete = row.status === 'received'; return <article key={row.id} className="rounded-2xl border border-ink/10 bg-white p-5"><div className="flex flex-wrap items-start justify-between gap-3"><div><p className="text-[10px] font-bold uppercase tracking-widest text-moss">{order?.order_number ?? row.order_id}</p><h3 className="mt-1 text-lg font-semibold">{order?.customer_name ?? 'Customer'}</h3><p className="mt-1 text-xs text-ink/55">{order?.customer_email} · {order?.customer_phone}</p><p className="mt-2 text-xs">Reason: <b>{row.reason.replaceAll('_', ' ')}</b></p><p className="mt-2 max-w-2xl text-xs leading-5 text-ink/60">{row.description}</p><p className="mt-2 text-[10px] text-ink/40">Requested {new Date(row.requested_at).toLocaleString('en-IN')}</p></div><div className="text-right"><p className="text-lg font-bold">{formatPrice(Number(order?.total_amount ?? 0))}</p><span className="mt-1 inline-block rounded-full bg-sage px-3 py-1 text-[10px] font-bold">{row.status.replaceAll('_', ' ')}</span><p className="mt-1 text-[10px] text-ink/45">Refund: {row.refund_status.replaceAll('_', ' ')}</p></div></div><div className="mt-4 grid gap-3 sm:grid-cols-2"><label className="text-xs font-semibold">Admin note<textarea value={notes[row.id] ?? row.admin_note ?? ''} onChange={(event) => setNotes((current) => ({ ...current, [row.id]: event.target.value }))} className="mt-1.5 min-h-20 w-full rounded-lg border border-ink/10 px-3 py-2 text-xs"/></label>{order?.payment_status === 'paid' && row.refund_status !== 'completed' && <div className="space-y-2"><label className="block text-xs font-semibold">Manual refund reference<input value={references[row.id] ?? ''} onChange={(event) => setReferences((current) => ({ ...current, [row.id]: event.target.value }))} placeholder="Bank transfer / cash refund reference" className="mt-1.5 w-full rounded-lg border border-ink/10 px-3 py-2 text-xs"/></label><label className="block text-xs font-semibold">Refund amount (₹)<input type="number" min="0.01" max={Number(order.total_amount)} step="0.01" value={amounts[row.id] ?? String(order.total_amount)} onChange={(event) => setAmounts((current) => ({ ...current, [row.id]: event.target.value }))} className="mt-1.5 w-full rounded-lg border border-ink/10 px-3 py-2 text-xs"/></label></div>}</div><div className="mt-4 flex flex-wrap gap-2">{canApprove && <><button disabled={busy === row.id} onClick={() => void update(row, 'approved')} className="pill-button bg-ink text-white">Approve return</button><button disabled={busy === row.id} onClick={() => void update(row, 'rejected')} className="pill-button border border-rose-200 text-rose-700">Reject</button></>}{canReceive && <button disabled={busy === row.id} onClick={() => void update(row, 'received')} className="pill-button bg-ink text-white">Mark item received</button>}{canComplete && <button disabled={busy === row.id} onClick={() => void update(row, 'completed')} className="pill-button bg-emerald-700 text-white">Complete return {order?.payment_status === 'paid' ? '& record refund' : ''}</button>}</div>{row.refund_status === 'pending' && <p className="mt-3 text-[10px] text-amber-700">The original COD payment was collected. Complete the manual refund and enter its reference before closing this return.</p>}</article>; })}</div>}</div></main></RequireAuth>;
+}
+export default function AdminReturnsPage() { return <AdminReturnsContent/>; }

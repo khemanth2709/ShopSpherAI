@@ -1,0 +1,2752 @@
+[
+  {
+    "productId": "p-001",
+    "path": "/product-photos/generated/tech-01.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-006",
+    "path": "/product-photos/generated/tech-02.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-009",
+    "path": "/product-photos/generated/tech-03.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-013",
+    "path": "/product-photos/generated/tech-04.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-014",
+    "path": "/product-photos/generated/tech-05.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-015",
+    "path": "/product-photos/generated/tech-06.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-016",
+    "path": "/product-photos/generated/tech-07.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-017",
+    "path": "/product-photos/generated/tech-08.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-025",
+    "path": "/product-photos/generated/tech-09.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-033",
+    "path": "/product-photos/generated/tech-10.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-034",
+    "path": "/product-photos/generated/tech-11.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-035",
+    "path": "/product-photos/generated/tech-12.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-036",
+    "path": "/product-photos/generated/tech-13.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-053",
+    "path": "/product-photos/generated/tech-14.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-054",
+    "path": "/product-photos/generated/tech-15.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-055",
+    "path": "/product-photos/generated/tech-16.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-056",
+    "path": "/product-photos/generated/tech-25.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-057",
+    "path": "/product-photos/generated/tech-17.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-058",
+    "path": "/product-photos/generated/tech-17-variant.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-059",
+    "path": "/product-photos/generated/tech-18.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-060",
+    "path": "/product-photos/generated/tech-18-variant.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-061",
+    "path": "/product-photos/generated/tech-19.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-062",
+    "path": "/product-photos/generated/tech-27.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-063",
+    "path": "/product-photos/generated/tech-20.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-064",
+    "path": "/product-photos/generated/tech-20-variant.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-065",
+    "path": "/product-photos/generated/tech-21.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-066",
+    "path": "/product-photos/generated/tech-28.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-067",
+    "path": "/product-photos/generated/tech-22.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-068",
+    "path": "/product-photos/generated/tech-14-variant.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-069",
+    "path": "/product-photos/generated/tech-23.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-397",
+    "path": "/product-photos/generated/kitchen-07.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-398",
+    "path": "/product-photos/generated/kitchen-08.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-399",
+    "path": "/product-photos/generated/kitchen-12.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-401",
+    "path": "/product-photos/generated/kitchen-17.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-403",
+    "path": "/product-photos/generated/kitchen-02.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-404",
+    "path": "/product-photos/generated/kitchen-09.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-409",
+    "path": "/product-photos/generated/kitchen-11.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-410",
+    "path": "/product-photos/generated/kitchen-13.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-411",
+    "path": "/product-photos/generated/kitchen-16.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-413",
+    "path": "/product-photos/generated/kitchen-15.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-417",
+    "path": "/product-photos/generated/kitchen-04.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-419",
+    "path": "/product-photos/generated/kitchen-14.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-002",
+    "path": "/product-photos/generated/catalog-043.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-003",
+    "path": "/product-photos/generated/catalog-044.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-004",
+    "path": "/product-photos/generated/catalog-045.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-005",
+    "path": "/product-photos/generated/catalog-046.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-007",
+    "path": "/product-photos/generated/catalog-047.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-008",
+    "path": "/product-photos/generated/catalog-048.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-010",
+    "path": "/product-photos/generated/catalog-049.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-011",
+    "path": "/product-photos/generated/catalog-050.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-012",
+    "path": "/product-photos/generated/catalog-051.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-018",
+    "path": "/product-photos/generated/catalog-052.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-019",
+    "path": "/product-photos/generated/catalog-053.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-020",
+    "path": "/product-photos/generated/catalog-054.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-021",
+    "path": "/product-photos/generated/catalog-055.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-022",
+    "path": "/product-photos/generated/catalog-056.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-023",
+    "path": "/product-photos/generated/catalog-057.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-024",
+    "path": "/product-photos/generated/catalog-058.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-026",
+    "path": "/product-photos/generated/catalog-059.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-027",
+    "path": "/product-photos/generated/catalog-060.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-028",
+    "path": "/product-photos/generated/catalog-061.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-029",
+    "path": "/product-photos/generated/catalog-062.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-030",
+    "path": "/product-photos/generated/catalog-063.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-031",
+    "path": "/product-photos/generated/catalog-064.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-037",
+    "path": "/product-photos/generated/catalog-065.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-038",
+    "path": "/product-photos/generated/catalog-066.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-039",
+    "path": "/product-photos/generated/catalog-067.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-571",
+    "path": "/product-photos/generated/catalog-068.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-573",
+    "path": "/product-photos/generated/catalog-069.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-577",
+    "path": "/product-photos/generated/catalog-070.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-743",
+    "path": "/product-photos/generated/catalog-071.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-601",
+    "path": "/product-photos/generated/catalog-072.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-617",
+    "path": "/product-photos/generated/catalog-073.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-445",
+    "path": "/product-photos/generated/catalog-074.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-402",
+    "path": "/product-photos/generated/catalog-075.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-667",
+    "path": "/product-photos/generated/catalog-076.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-665",
+    "path": "/product-photos/generated/catalog-077.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-661",
+    "path": "/product-photos/generated/catalog-078.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-723",
+    "path": "/product-photos/generated/catalog-079.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-727",
+    "path": "/product-photos/generated/catalog-080.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-725",
+    "path": "/product-photos/generated/catalog-081.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-551",
+    "path": "/product-photos/generated/catalog-082.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-479",
+    "path": "/product-photos/generated/catalog-083.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-165",
+    "path": "/product-photos/generated/catalog-084.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-032",
+    "path": "/product-photos/generated/catalog-085.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-153",
+    "path": "/product-photos/generated/catalog-086.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-151",
+    "path": "/product-photos/generated/catalog-087.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-157",
+    "path": "/product-photos/generated/catalog-088.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-525",
+    "path": "/product-photos/generated/catalog-089.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-531",
+    "path": "/product-photos/generated/catalog-090.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-521",
+    "path": "/product-photos/generated/catalog-091.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-653",
+    "path": "/product-photos/generated/catalog-092.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-040",
+    "path": "/product-photos/generated/catalog-093.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-041",
+    "path": "/product-photos/generated/catalog-094.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-042",
+    "path": "/product-photos/generated/catalog-095.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-043",
+    "path": "/product-photos/generated/catalog-096.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-044",
+    "path": "/product-photos/generated/catalog-097.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-045",
+    "path": "/product-photos/generated/catalog-098.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-046",
+    "path": "/product-photos/generated/catalog-099.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-047",
+    "path": "/product-photos/generated/catalog-100.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-048",
+    "path": "/product-photos/generated/catalog-101.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-049",
+    "path": "/product-photos/generated/catalog-102.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-050",
+    "path": "/product-photos/generated/catalog-103.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-051",
+    "path": "/product-photos/generated/catalog-104.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-052",
+    "path": "/product-photos/generated/catalog-105.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-070",
+    "path": "/product-photos/generated/catalog-106.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-071",
+    "path": "/product-photos/generated/catalog-107.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-072",
+    "path": "/product-photos/generated/catalog-108.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-073",
+    "path": "/product-photos/generated/catalog-109.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-074",
+    "path": "/product-photos/generated/catalog-110.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-075",
+    "path": "/product-photos/generated/catalog-111.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-076",
+    "path": "/product-photos/generated/catalog-112.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-077",
+    "path": "/product-photos/generated/catalog-113.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-078",
+    "path": "/product-photos/generated/catalog-114.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-079",
+    "path": "/product-photos/generated/catalog-115.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-080",
+    "path": "/product-photos/generated/catalog-116.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-081",
+    "path": "/product-photos/generated/catalog-117.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-572",
+    "path": "/product-photos/generated/catalog-118.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-574",
+    "path": "/product-photos/generated/catalog-119.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-744",
+    "path": "/product-photos/generated/catalog-120.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-602",
+    "path": "/product-photos/generated/catalog-121.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-735",
+    "path": "/product-photos/generated/catalog-122.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-721",
+    "path": "/product-photos/generated/catalog-123.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-511",
+    "path": "/product-photos/generated/catalog-124.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-539",
+    "path": "/product-photos/generated/catalog-125.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-545",
+    "path": "/product-photos/generated/catalog-126.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-552",
+    "path": "/product-photos/generated/catalog-127.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-143",
+    "path": "/product-photos/generated/catalog-128.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-662",
+    "path": "/product-photos/generated/catalog-129.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-675",
+    "path": "/product-photos/generated/catalog-130.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-689",
+    "path": "/product-photos/generated/catalog-131.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-666",
+    "path": "/product-photos/generated/catalog-132.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-139",
+    "path": "/product-photos/generated/catalog-133.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-678",
+    "path": "/product-photos/generated/catalog-134.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-109",
+    "path": "/product-photos/generated/catalog-135.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-113",
+    "path": "/product-photos/generated/catalog-136.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-395",
+    "path": "/product-photos/generated/catalog-137.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-101",
+    "path": "/product-photos/generated/catalog-138.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-089",
+    "path": "/product-photos/generated/catalog-139.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-693",
+    "path": "/product-photos/generated/catalog-140.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-691",
+    "path": "/product-photos/generated/catalog-141.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-697",
+    "path": "/product-photos/generated/catalog-142.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-102",
+    "path": "/product-photos/generated/catalog-143.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-396",
+    "path": "/product-photos/generated/catalog-144.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-418",
+    "path": "/product-photos/generated/catalog-145.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-722",
+    "path": "/product-photos/generated/catalog-146.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-724",
+    "path": "/product-photos/generated/catalog-147.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-438",
+    "path": "/product-photos/generated/catalog-148.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-319",
+    "path": "/product-photos/generated/catalog-149.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-565",
+    "path": "/product-photos/generated/catalog-150.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-549",
+    "path": "/product-photos/generated/catalog-151.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-480",
+    "path": "/product-photos/generated/catalog-152.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-166",
+    "path": "/product-photos/generated/catalog-153.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-412",
+    "path": "/product-photos/generated/catalog-154.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-154",
+    "path": "/product-photos/generated/catalog-155.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-152",
+    "path": "/product-photos/generated/catalog-156.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-158",
+    "path": "/product-photos/generated/catalog-157.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-162",
+    "path": "/product-photos/generated/catalog-158.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-528",
+    "path": "/product-photos/generated/catalog-159.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-526",
+    "path": "/product-photos/generated/catalog-160.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-527",
+    "path": "/product-photos/generated/catalog-161.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-513",
+    "path": "/product-photos/generated/catalog-162.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-533",
+    "path": "/product-photos/generated/catalog-163.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-522",
+    "path": "/product-photos/generated/catalog-164.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-485",
+    "path": "/product-photos/generated/catalog-165.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-481",
+    "path": "/product-photos/generated/catalog-166.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-483",
+    "path": "/product-photos/generated/catalog-167.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-578",
+    "path": "/product-photos/generated/catalog-168.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-603",
+    "path": "/product-photos/generated/catalog-169.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-637",
+    "path": "/product-photos/generated/catalog-170.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-618",
+    "path": "/product-photos/generated/catalog-171.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-580",
+    "path": "/product-photos/generated/catalog-172.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-654",
+    "path": "/product-photos/generated/catalog-173.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-091",
+    "path": "/product-photos/generated/catalog-174.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-093",
+    "path": "/product-photos/generated/catalog-175.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-681",
+    "path": "/product-photos/generated/catalog-176.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-107",
+    "path": "/product-photos/generated/catalog-177.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-090",
+    "path": "/product-photos/generated/catalog-178.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-694",
+    "path": "/product-photos/generated/catalog-179.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-692",
+    "path": "/product-photos/generated/catalog-180.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-245",
+    "path": "/product-photos/generated/catalog-181.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-251",
+    "path": "/product-photos/generated/catalog-182.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-249",
+    "path": "/product-photos/generated/catalog-183.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-241",
+    "path": "/product-photos/generated/catalog-184.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-255",
+    "path": "/product-photos/generated/catalog-185.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-293",
+    "path": "/product-photos/generated/catalog-186.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-279",
+    "path": "/product-photos/generated/catalog-187.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-331",
+    "path": "/product-photos/generated/catalog-188.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-333",
+    "path": "/product-photos/generated/catalog-189.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-343",
+    "path": "/product-photos/generated/catalog-190.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-369",
+    "path": "/product-photos/generated/catalog-191.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-477",
+    "path": "/product-photos/generated/catalog-192.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-082",
+    "path": "/product-photos/generated/catalog-193.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-083",
+    "path": "/product-photos/generated/catalog-194.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-084",
+    "path": "/product-photos/generated/catalog-195.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-085",
+    "path": "/product-photos/generated/catalog-196.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-086",
+    "path": "/product-photos/generated/catalog-197.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-087",
+    "path": "/product-photos/generated/catalog-198.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-088",
+    "path": "/product-photos/generated/catalog-199.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-092",
+    "path": "/product-photos/generated/catalog-200.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-094",
+    "path": "/product-photos/generated/catalog-201.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-095",
+    "path": "/product-photos/generated/catalog-202.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-096",
+    "path": "/product-photos/generated/catalog-203.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-097",
+    "path": "/product-photos/generated/catalog-204.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-098",
+    "path": "/product-photos/generated/catalog-205.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-099",
+    "path": "/product-photos/generated/catalog-206.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-100",
+    "path": "/product-photos/generated/catalog-207.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-103",
+    "path": "/product-photos/generated/catalog-208.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-104",
+    "path": "/product-photos/generated/catalog-209.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-105",
+    "path": "/product-photos/generated/catalog-210.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-106",
+    "path": "/product-photos/generated/catalog-211.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-108",
+    "path": "/product-photos/generated/catalog-212.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-110",
+    "path": "/product-photos/generated/catalog-213.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-111",
+    "path": "/product-photos/generated/catalog-214.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-112",
+    "path": "/product-photos/generated/catalog-215.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-114",
+    "path": "/product-photos/generated/catalog-216.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-115",
+    "path": "/product-photos/generated/catalog-217.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-116",
+    "path": "/product-photos/generated/catalog-218.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-117",
+    "path": "/product-photos/generated/catalog-219.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-118",
+    "path": "/product-photos/generated/catalog-220.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-119",
+    "path": "/product-photos/generated/catalog-221.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-120",
+    "path": "/product-photos/generated/catalog-222.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-121",
+    "path": "/product-photos/generated/catalog-223.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-122",
+    "path": "/product-photos/generated/catalog-224.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-123",
+    "path": "/product-photos/generated/catalog-225.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-124",
+    "path": "/product-photos/generated/catalog-226.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-125",
+    "path": "/product-photos/generated/catalog-227.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-126",
+    "path": "/product-photos/generated/catalog-228.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-127",
+    "path": "/product-photos/generated/catalog-229.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-128",
+    "path": "/product-photos/generated/catalog-230.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-129",
+    "path": "/product-photos/generated/catalog-231.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-130",
+    "path": "/product-photos/generated/catalog-232.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-131",
+    "path": "/product-photos/generated/catalog-233.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-132",
+    "path": "/product-photos/generated/catalog-234.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-133",
+    "path": "/product-photos/generated/catalog-235.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-134",
+    "path": "/product-photos/generated/catalog-236.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-135",
+    "path": "/product-photos/generated/catalog-237.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-136",
+    "path": "/product-photos/generated/catalog-238.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-137",
+    "path": "/product-photos/generated/catalog-239.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-138",
+    "path": "/product-photos/generated/catalog-240.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-140",
+    "path": "/product-photos/generated/catalog-241.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-391",
+    "path": "/product-photos/generated/catalog-242.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-392",
+    "path": "/product-photos/generated/catalog-243.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-393",
+    "path": "/product-photos/generated/catalog-244.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-394",
+    "path": "/product-photos/generated/catalog-245.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-400",
+    "path": "/product-photos/generated/catalog-246.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-407",
+    "path": "/product-photos/generated/catalog-247.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-408",
+    "path": "/product-photos/generated/catalog-248.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-414",
+    "path": "/product-photos/generated/catalog-249.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-415",
+    "path": "/product-photos/generated/catalog-250.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-416",
+    "path": "/product-photos/generated/catalog-251.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-726",
+    "path": "/product-photos/generated/catalog-252.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-728",
+    "path": "/product-photos/generated/catalog-253.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-732",
+    "path": "/product-photos/generated/catalog-254.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-733",
+    "path": "/product-photos/generated/catalog-255.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-734",
+    "path": "/product-photos/generated/catalog-256.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-736",
+    "path": "/product-photos/generated/catalog-257.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-737",
+    "path": "/product-photos/generated/catalog-258.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-738",
+    "path": "/product-photos/generated/catalog-259.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-739",
+    "path": "/product-photos/generated/catalog-260.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-740",
+    "path": "/product-photos/generated/catalog-261.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-451",
+    "path": "/product-photos/generated/catalog-262.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-453",
+    "path": "/product-photos/generated/catalog-263.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-455",
+    "path": "/product-photos/generated/catalog-264.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-457",
+    "path": "/product-photos/generated/catalog-265.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-459",
+    "path": "/product-photos/generated/catalog-266.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-461",
+    "path": "/product-photos/generated/catalog-267.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-463",
+    "path": "/product-photos/generated/catalog-268.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-465",
+    "path": "/product-photos/generated/catalog-269.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-467",
+    "path": "/product-photos/generated/catalog-270.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-469",
+    "path": "/product-photos/generated/catalog-271.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-156",
+    "path": "/product-photos/generated/catalog-272.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-160",
+    "path": "/product-photos/generated/catalog-273.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-164",
+    "path": "/product-photos/generated/catalog-274.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-168",
+    "path": "/product-photos/generated/catalog-275.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-170",
+    "path": "/product-photos/generated/catalog-276.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-172",
+    "path": "/product-photos/generated/catalog-277.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-174",
+    "path": "/product-photos/generated/catalog-278.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-512",
+    "path": "/product-photos/generated/catalog-279.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-514",
+    "path": "/product-photos/generated/catalog-280.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-515",
+    "path": "/product-photos/generated/catalog-281.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-516",
+    "path": "/product-photos/generated/catalog-282.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-518",
+    "path": "/product-photos/generated/catalog-283.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-520",
+    "path": "/product-photos/generated/catalog-284.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-524",
+    "path": "/product-photos/generated/catalog-285.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-482",
+    "path": "/product-photos/generated/catalog-286.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-484",
+    "path": "/product-photos/generated/catalog-287.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-486",
+    "path": "/product-photos/generated/catalog-288.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-487",
+    "path": "/product-photos/generated/catalog-289.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-489",
+    "path": "/product-photos/generated/catalog-290.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-491",
+    "path": "/product-photos/generated/catalog-291.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-541",
+    "path": "/product-photos/generated/catalog-292.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-543",
+    "path": "/product-photos/generated/catalog-293.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-546",
+    "path": "/product-photos/generated/catalog-294.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-559",
+    "path": "/product-photos/generated/catalog-295.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-505",
+    "path": "/product-photos/generated/catalog-296.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-502",
+    "path": "/product-photos/generated/catalog-297.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-679",
+    "path": "/product-photos/generated/catalog-298.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-503",
+    "path": "/product-photos/generated/catalog-299.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-507",
+    "path": "/product-photos/generated/catalog-300.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-509",
+    "path": "/product-photos/generated/catalog-301.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-695",
+    "path": "/product-photos/generated/catalog-302.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-698",
+    "path": "/product-photos/generated/catalog-303.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-699",
+    "path": "/product-photos/generated/catalog-304.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-701",
+    "path": "/product-photos/generated/catalog-305.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-703",
+    "path": "/product-photos/generated/catalog-306.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-705",
+    "path": "/product-photos/generated/catalog-307.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-707",
+    "path": "/product-photos/generated/catalog-308.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-709",
+    "path": "/product-photos/generated/catalog-309.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-711",
+    "path": "/product-photos/generated/catalog-310.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-717",
+    "path": "/product-photos/generated/catalog-311.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-155",
+    "path": "/product-photos/generated/catalog-312.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-159",
+    "path": "/product-photos/generated/catalog-313.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-161",
+    "path": "/product-photos/generated/catalog-314.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-163",
+    "path": "/product-photos/generated/catalog-315.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-167",
+    "path": "/product-photos/generated/catalog-316.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-169",
+    "path": "/product-photos/generated/catalog-317.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-171",
+    "path": "/product-photos/generated/catalog-318.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-173",
+    "path": "/product-photos/generated/catalog-319.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-175",
+    "path": "/product-photos/generated/catalog-320.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-177",
+    "path": "/product-photos/generated/catalog-321.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-242",
+    "path": "/product-photos/generated/catalog-322.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-243",
+    "path": "/product-photos/generated/catalog-323.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-246",
+    "path": "/product-photos/generated/catalog-324.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-247",
+    "path": "/product-photos/generated/catalog-325.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-250",
+    "path": "/product-photos/generated/catalog-326.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-252",
+    "path": "/product-photos/generated/catalog-327.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-253",
+    "path": "/product-photos/generated/catalog-328.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-256",
+    "path": "/product-photos/generated/catalog-329.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-263",
+    "path": "/product-photos/generated/catalog-330.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-294",
+    "path": "/product-photos/generated/catalog-331.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-332",
+    "path": "/product-photos/generated/catalog-332.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-334",
+    "path": "/product-photos/generated/catalog-333.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-344",
+    "path": "/product-photos/generated/catalog-334.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-301",
+    "path": "/product-photos/generated/catalog-335.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-303",
+    "path": "/product-photos/generated/catalog-336.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-315",
+    "path": "/product-photos/generated/catalog-337.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-379",
+    "path": "/product-photos/generated/catalog-338.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-370",
+    "path": "/product-photos/generated/catalog-339.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-389",
+    "path": "/product-photos/generated/catalog-340.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-478",
+    "path": "/product-photos/generated/catalog-341.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-529",
+    "path": "/product-photos/generated/catalog-342.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-530",
+    "path": "/product-photos/generated/catalog-343.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-532",
+    "path": "/product-photos/generated/catalog-344.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-534",
+    "path": "/product-photos/generated/catalog-345.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-535",
+    "path": "/product-photos/generated/catalog-346.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-231",
+    "path": "/product-photos/generated/catalog-347.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-289",
+    "path": "/product-photos/generated/catalog-348.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-405",
+    "path": "/product-photos/generated/catalog-349.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-406",
+    "path": "/product-photos/generated/catalog-350.webp",
+    "source": "AI-generated studio product photograph"
+  },
+  {
+    "productId": "p-141",
+    "path": "/product-photos/generated/catalog-351.webp",
+    "source": "AI-generated illustrative product catalogue photograph"
+  },
+  {
+    "productId": "p-142",
+    "path": "/product-photos/generated/catalog-352.webp",
+    "source": "AI-generated illustrative product catalogue photograph"
+  },
+  {
+    "productId": "p-144",
+    "path": "/product-photos/generated/catalog-353.webp",
+    "source": "AI-generated illustrative product catalogue photograph"
+  },
+  {
+    "productId": "p-145",
+    "path": "/product-photos/generated/catalog-354.webp",
+    "source": "AI-generated illustrative product catalogue photograph"
+  },
+  {
+    "productId": "p-146",
+    "path": "/product-photos/generated/catalog-355.webp",
+    "source": "AI-generated illustrative product catalogue photograph"
+  },
+  {
+    "productId": "p-147",
+    "path": "/product-photos/generated/catalog-356.webp",
+    "source": "AI-generated illustrative product catalogue photograph"
+  },
+  {
+    "productId": "p-148",
+    "path": "/product-photos/generated/catalog-357.webp",
+    "source": "AI-generated illustrative product catalogue photograph"
+  },
+  {
+    "productId": "p-149",
+    "path": "/product-photos/generated/catalog-358.webp",
+    "source": "AI-generated illustrative product catalogue photograph"
+  },
+  {
+    "productId": "p-150",
+    "path": "/product-photos/generated/catalog-359.webp",
+    "source": "AI-generated illustrative product catalogue photograph"
+  },
+  {
+    "productId": "p-176",
+    "path": "/product-photos/generated/catalog-360.webp",
+    "source": "AI-generated illustrative product catalogue photograph"
+  },
+  {
+    "productId": "p-178",
+    "path": "/product-photos/generated/catalog-361.webp",
+    "source": "AI-generated illustrative product catalogue photograph"
+  },
+  {
+    "productId": "p-179",
+    "path": "/product-photos/generated/catalog-362.webp",
+    "source": "AI-generated illustrative product catalogue photograph"
+  },
+  {
+    "productId": "p-180",
+    "path": "/product-photos/generated/catalog-363.webp",
+    "source": "AI-generated illustrative product catalogue photograph"
+  },
+  {
+    "productId": "p-181",
+    "path": "/product-photos/generated/catalog-364.webp",
+    "source": "AI-generated illustrative product catalogue photograph"
+  },
+  {
+    "productId": "p-182",
+    "path": "/product-photos/generated/catalog-365.webp",
+    "source": "AI-generated illustrative product catalogue photograph"
+  },
+  {
+    "productId": "p-183",
+    "path": "/product-photos/generated/catalog-366.webp",
+    "source": "AI-generated illustrative product catalogue photograph"
+  },
+  {
+    "productId": "p-184",
+    "path": "/product-photos/generated/catalog-367.webp",
+    "source": "AI-generated illustrative product catalogue photograph"
+  },
+  {
+    "productId": "p-185",
+    "path": "/product-photos/generated/catalog-368.webp",
+    "source": "AI-generated illustrative product catalogue photograph"
+  },
+  {
+    "productId": "p-186",
+    "path": "/product-photos/generated/catalog-369.webp",
+    "source": "AI-generated illustrative product catalogue photograph"
+  },
+  {
+    "productId": "p-187",
+    "path": "/product-photos/generated/catalog-370.webp",
+    "source": "AI-generated illustrative product catalogue photograph"
+  },
+  {
+    "productId": "p-188",
+    "path": "/product-photos/generated/catalog-371.webp",
+    "source": "AI-generated illustrative product catalogue photograph"
+  },
+  {
+    "productId": "p-189",
+    "path": "/product-photos/generated/catalog-372.webp",
+    "source": "AI-generated illustrative product catalogue photograph"
+  },
+  {
+    "productId": "p-190",
+    "path": "/product-photos/generated/catalog-373.webp",
+    "source": "AI-generated illustrative product catalogue photograph"
+  },
+  {
+    "productId": "p-191",
+    "path": "/product-photos/generated/catalog-374.webp",
+    "source": "AI-generated illustrative product catalogue photograph"
+  },
+  {
+    "productId": "p-192",
+    "path": "/product-photos/generated/catalog-375.webp",
+    "source": "AI-generated illustrative product catalogue photograph"
+  },
+  {
+    "productId": "p-193",
+    "path": "/product-photos/generated/catalog-376.webp",
+    "source": "AI-generated illustrative product catalogue photograph"
+  },
+  {
+    "productId": "p-194",
+    "path": "/product-photos/generated/catalog-377.webp",
+    "source": "AI-generated illustrative product catalogue photograph"
+  },
+  {
+    "productId": "p-195",
+    "path": "/product-photos/generated/catalog-378.webp",
+    "source": "AI-generated illustrative product catalogue photograph"
+  },
+  {
+    "productId": "p-196",
+    "path": "/product-photos/generated/catalog-379.webp",
+    "source": "AI-generated illustrative product catalogue photograph"
+  },
+  {
+    "productId": "p-197",
+    "path": "/product-photos/generated/catalog-380.webp",
+    "source": "AI-generated illustrative product catalogue photograph"
+  },
+  {
+    "productId": "p-198",
+    "path": "/product-photos/generated/catalog-381.webp",
+    "source": "AI-generated illustrative product catalogue photograph"
+  },
+  {
+    "productId": "p-199",
+    "path": "/product-photos/generated/catalog-382.webp",
+    "source": "AI-generated illustrative product catalogue photograph"
+  },
+  {
+    "productId": "p-200",
+    "path": "/product-photos/generated/catalog-383.webp",
+    "source": "AI-generated illustrative product catalogue photograph"
+  },
+  {
+    "productId": "p-201",
+    "path": "/product-photos/generated/catalog-384.webp",
+    "source": "AI-generated illustrative product catalogue photograph"
+  },
+  {
+    "productId": "p-202",
+    "path": "/product-photos/generated/catalog-385.webp",
+    "source": "AI-generated illustrative product catalogue photograph"
+  },
+  {
+    "productId": "p-203",
+    "path": "/product-photos/generated/catalog-386.webp",
+    "source": "AI-generated illustrative product catalogue photograph"
+  },
+  {
+    "productId": "p-204",
+    "path": "/product-photos/generated/catalog-387.webp",
+    "source": "AI-generated illustrative product catalogue photograph"
+  },
+  {
+    "productId": "p-205",
+    "path": "/product-photos/generated/catalog-388.webp",
+    "source": "AI-generated illustrative product catalogue photograph"
+  },
+  {
+    "productId": "p-206",
+    "path": "/product-photos/generated/catalog-389.webp",
+    "source": "AI-generated illustrative product catalogue photograph"
+  },
+  {
+    "productId": "p-207",
+    "path": "/product-photos/generated/catalog-390.webp",
+    "source": "AI-generated illustrative product catalogue photograph"
+  },
+  {
+    "productId": "p-208",
+    "path": "/product-photos/generated/catalog-391.webp",
+    "source": "AI-generated illustrative product catalogue photograph"
+  },
+  {
+    "productId": "p-209",
+    "path": "/product-photos/generated/catalog-392.webp",
+    "source": "AI-generated illustrative product catalogue photograph"
+  },
+  {
+    "productId": "p-210",
+    "path": "/product-photos/generated/catalog-393.webp",
+    "source": "AI-generated illustrative product catalogue photograph"
+  },
+  {
+    "productId": "p-421",
+    "path": "/product-photos/generated/catalog-394.webp",
+    "source": "AI-generated illustrative product catalogue photograph"
+  },
+  {
+    "productId": "p-422",
+    "path": "/product-photos/generated/catalog-395.webp",
+    "source": "AI-generated illustrative product catalogue photograph"
+  },
+  {
+    "productId": "p-211",
+    "path": "/product-photos/generated/catalog-396.webp",
+    "source": "AI-generated illustrative product catalogue photograph"
+  },
+  {
+    "productId": "p-213",
+    "path": "/product-photos/generated/catalog-397.webp",
+    "source": "AI-generated illustrative product catalogue photograph"
+  },
+  {
+    "productId": "p-215",
+    "path": "/product-photos/generated/catalog-398.webp",
+    "source": "AI-generated illustrative product catalogue photograph"
+  },
+  {
+    "productId": "p-217",
+    "path": "/product-photos/generated/catalog-399.webp",
+    "source": "AI-generated illustrative product catalogue photograph"
+  },
+  {
+    "productId": "p-219",
+    "path": "/product-photos/generated/catalog-400.webp",
+    "source": "AI-generated illustrative product catalogue photograph"
+  },
+  {
+    "productId": "p-575",
+    "path": "/product-photos/generated/catalog-401.webp",
+    "source": "AI-generated illustrative product catalogue photograph"
+  },
+  {
+    "productId": "p-576",
+    "path": "/product-photos/generated/catalog-402.webp",
+    "source": "AI-generated illustrative product catalogue photograph"
+  },
+  {
+    "productId": "p-579",
+    "path": "/product-photos/generated/catalog-403.webp",
+    "source": "AI-generated illustrative product catalogue photograph"
+  },
+  {
+    "productId": "p-581",
+    "path": "/product-photos/generated/catalog-404.webp",
+    "source": "AI-generated illustrative product catalogue photograph"
+  },
+  {
+    "productId": "p-582",
+    "path": "/product-photos/generated/catalog-405.webp",
+    "source": "AI-generated illustrative product catalogue photograph"
+  },
+  {
+    "productId": "p-583",
+    "path": "/product-photos/generated/catalog-406.webp",
+    "source": "AI-generated illustrative product catalogue photograph"
+  },
+  {
+    "productId": "p-584",
+    "path": "/product-photos/generated/catalog-407.webp",
+    "source": "AI-generated illustrative product catalogue photograph"
+  },
+  {
+    "productId": "p-585",
+    "path": "/product-photos/generated/catalog-408.webp",
+    "source": "AI-generated illustrative product catalogue photograph"
+  },
+  {
+    "productId": "p-586",
+    "path": "/product-photos/generated/catalog-409.webp",
+    "source": "AI-generated illustrative product catalogue photograph"
+  },
+  {
+    "productId": "p-587",
+    "path": "/product-photos/generated/catalog-410.webp",
+    "source": "AI-generated illustrative product catalogue photograph"
+  },
+  {
+    "productId": "p-588",
+    "path": "/product-photos/generated/catalog-411.webp",
+    "source": "AI-generated illustrative product catalogue photograph"
+  },
+  {
+    "productId": "p-589",
+    "path": "/product-photos/generated/catalog-412.webp",
+    "source": "AI-generated illustrative product catalogue photograph"
+  },
+  {
+    "productId": "p-590",
+    "path": "/product-photos/generated/catalog-413.webp",
+    "source": "AI-generated illustrative product catalogue photograph"
+  },
+  {
+    "productId": "p-591",
+    "path": "/product-photos/generated/catalog-414.webp",
+    "source": "AI-generated illustrative product catalogue photograph"
+  },
+  {
+    "productId": "p-592",
+    "path": "/product-photos/generated/catalog-415.webp",
+    "source": "AI-generated illustrative product catalogue photograph"
+  },
+  {
+    "productId": "p-604",
+    "path": "/product-photos/generated/catalog-416.webp",
+    "source": "AI-generated illustrative product catalogue photograph"
+  },
+  {
+    "productId": "p-605",
+    "path": "/product-photos/generated/catalog-417.webp",
+    "source": "AI-generated illustrative product catalogue photograph"
+  },
+  {
+    "productId": "p-606",
+    "path": "/product-photos/generated/catalog-418.webp",
+    "source": "AI-generated illustrative product catalogue photograph"
+  },
+  {
+    "productId": "p-607",
+    "path": "/product-photos/generated/catalog-419.webp",
+    "source": "AI-generated illustrative product catalogue photograph"
+  },
+  {
+    "productId": "p-608",
+    "path": "/product-photos/generated/catalog-420.webp",
+    "source": "AI-generated illustrative product catalogue photograph"
+  },
+  {
+    "productId": "p-609",
+    "path": "/product-photos/generated/catalog-421.webp",
+    "source": "AI-generated illustrative product catalogue photograph"
+  },
+  {
+    "productId": "p-610",
+    "path": "/product-photos/generated/catalog-422.webp",
+    "source": "AI-generated illustrative product catalogue photograph"
+  },
+  {
+    "productId": "p-611",
+    "path": "/product-photos/generated/catalog-423.webp",
+    "source": "AI-generated illustrative product catalogue photograph"
+  },
+  {
+    "productId": "p-612",
+    "path": "/product-photos/generated/catalog-424.webp",
+    "source": "AI-generated illustrative product catalogue photograph"
+  },
+  {
+    "productId": "p-613",
+    "path": "/product-photos/generated/catalog-425.webp",
+    "source": "AI-generated illustrative product catalogue photograph"
+  },
+  {
+    "productId": "p-631",
+    "path": "/product-photos/generated/catalog-426.webp",
+    "source": "AI-generated illustrative product catalogue photograph"
+  },
+  {
+    "productId": "p-632",
+    "path": "/product-photos/generated/catalog-427.webp",
+    "source": "AI-generated illustrative product catalogue photograph"
+  },
+  {
+    "productId": "p-633",
+    "path": "/product-photos/generated/catalog-428.webp",
+    "source": "AI-generated illustrative product catalogue photograph"
+  },
+  {
+    "productId": "p-634",
+    "path": "/product-photos/generated/catalog-429.webp",
+    "source": "AI-generated illustrative product catalogue photograph"
+  },
+  {
+    "productId": "p-635",
+    "path": "/product-photos/generated/catalog-430.webp",
+    "source": "AI-generated illustrative product catalogue photograph"
+  },
+  {
+    "productId": "p-729",
+    "path": "/product-photos/generated/catalog-431.webp",
+    "source": "AI-generated illustrative product catalogue photograph"
+  },
+  {
+    "productId": "p-730",
+    "path": "/product-photos/generated/catalog-432.webp",
+    "source": "AI-generated illustrative product catalogue photograph"
+  },
+  {
+    "productId": "p-731",
+    "path": "/product-photos/generated/catalog-433.webp",
+    "source": "AI-generated illustrative product catalogue photograph"
+  },
+  {
+    "productId": "p-741",
+    "path": "/product-photos/generated/catalog-434.webp",
+    "source": "AI-generated illustrative product catalogue photograph"
+  },
+  {
+    "productId": "p-742",
+    "path": "/product-photos/generated/catalog-435.webp",
+    "source": "AI-generated illustrative product catalogue photograph"
+  },
+  {
+    "productId": "p-745",
+    "path": "/product-photos/generated/catalog-436.webp",
+    "source": "AI-generated illustrative product catalogue photograph"
+  },
+  {
+    "productId": "p-746",
+    "path": "/product-photos/generated/catalog-437.webp",
+    "source": "AI-generated illustrative product catalogue photograph"
+  },
+  {
+    "productId": "p-747",
+    "path": "/product-photos/generated/catalog-438.webp",
+    "source": "AI-generated illustrative product catalogue photograph"
+  },
+  {
+    "productId": "p-748",
+    "path": "/product-photos/generated/catalog-439.webp",
+    "source": "AI-generated illustrative product catalogue photograph"
+  },
+  {
+    "productId": "p-749",
+    "path": "/product-photos/generated/catalog-440.webp",
+    "source": "AI-generated illustrative product catalogue photograph"
+  },
+  {
+    "productId": "p-750",
+    "path": "/product-photos/generated/catalog-441.webp",
+    "source": "AI-generated illustrative product catalogue photograph"
+  },
+  {
+    "productId": "p-663",
+    "path": "/product-photos/generated/catalog-442.webp",
+    "source": "AI-generated illustrative product catalogue photograph"
+  },
+  {
+    "productId": "p-664",
+    "path": "/product-photos/generated/catalog-443.webp",
+    "source": "AI-generated illustrative product catalogue photograph"
+  },
+  {
+    "productId": "p-668",
+    "path": "/product-photos/generated/catalog-444.webp",
+    "source": "AI-generated illustrative product catalogue photograph"
+  },
+  {
+    "productId": "p-669",
+    "path": "/product-photos/generated/catalog-445.webp",
+    "source": "AI-generated illustrative product catalogue photograph"
+  },
+  {
+    "productId": "p-670",
+    "path": "/product-photos/generated/catalog-446.webp",
+    "source": "AI-generated illustrative product catalogue photograph"
+  },
+  {
+    "productId": "p-671",
+    "path": "/product-photos/generated/catalog-447.webp",
+    "source": "AI-generated illustrative product catalogue photograph"
+  },
+  {
+    "productId": "p-672",
+    "path": "/product-photos/generated/catalog-448.webp",
+    "source": "AI-generated illustrative product catalogue photograph"
+  },
+  {
+    "productId": "p-673",
+    "path": "/product-photos/generated/catalog-449.webp",
+    "source": "AI-generated illustrative product catalogue photograph"
+  },
+  {
+    "productId": "p-674",
+    "path": "/product-photos/generated/catalog-450.webp",
+    "source": "AI-generated illustrative product catalogue photograph"
+  },
+  {
+    "productId": "p-676",
+    "path": "/product-photos/generated/catalog-451.webp",
+    "source": "AI-generated illustrative product catalogue photograph"
+  },
+  {
+    "productId": "p-677",
+    "path": "/product-photos/generated/catalog-452.webp",
+    "source": "AI-generated illustrative product catalogue photograph"
+  },
+  {
+    "productId": "p-680",
+    "path": "/product-photos/generated/catalog-453.webp",
+    "source": "AI-generated illustrative product catalogue photograph"
+  },
+  {
+    "productId": "p-682",
+    "path": "/product-photos/generated/catalog-454.webp",
+    "source": "AI-generated illustrative product catalogue photograph"
+  },
+  {
+    "productId": "p-683",
+    "path": "/product-photos/generated/catalog-455.webp",
+    "source": "AI-generated illustrative product catalogue photograph"
+  },
+  {
+    "productId": "p-684",
+    "path": "/product-photos/generated/catalog-456.webp",
+    "source": "AI-generated illustrative product catalogue photograph"
+  },
+  {
+    "productId": "p-685",
+    "path": "/product-photos/generated/catalog-457.webp",
+    "source": "AI-generated illustrative product catalogue photograph"
+  },
+  {
+    "productId": "p-686",
+    "path": "/product-photos/generated/catalog-458.webp",
+    "source": "AI-generated illustrative product catalogue photograph"
+  },
+  {
+    "productId": "p-687",
+    "path": "/product-photos/generated/catalog-459.webp",
+    "source": "AI-generated illustrative product catalogue photograph"
+  },
+  {
+    "productId": "p-688",
+    "path": "/product-photos/generated/catalog-460.webp",
+    "source": "AI-generated illustrative product catalogue photograph"
+  },
+  {
+    "productId": "p-690",
+    "path": "/product-photos/generated/catalog-461.webp",
+    "source": "AI-generated illustrative product catalogue photograph"
+  },
+  {
+    "productId": "p-452",
+    "path": "/product-photos/generated/catalog-462.webp",
+    "source": "AI-generated illustrative product catalogue photograph"
+  },
+  {
+    "productId": "p-454",
+    "path": "/product-photos/generated/catalog-463.webp",
+    "source": "AI-generated illustrative product catalogue photograph"
+  },
+  {
+    "productId": "p-456",
+    "path": "/product-photos/generated/catalog-464.webp",
+    "source": "AI-generated illustrative product catalogue photograph"
+  },
+  {
+    "productId": "p-458",
+    "path": "/product-photos/generated/catalog-465.webp",
+    "source": "AI-generated illustrative product catalogue photograph"
+  },
+  {
+    "productId": "p-460",
+    "path": "/product-photos/generated/catalog-466.webp",
+    "source": "AI-generated illustrative product catalogue photograph"
+  },
+  {
+    "productId": "p-462",
+    "path": "/product-photos/generated/catalog-467.webp",
+    "source": "AI-generated illustrative product catalogue photograph"
+  },
+  {
+    "productId": "p-464",
+    "path": "/product-photos/generated/catalog-468.webp",
+    "source": "AI-generated illustrative product catalogue photograph"
+  },
+  {
+    "productId": "p-466",
+    "path": "/product-photos/generated/catalog-469.webp",
+    "source": "AI-generated illustrative product catalogue photograph"
+  },
+  {
+    "productId": "p-468",
+    "path": "/product-photos/generated/catalog-470.webp",
+    "source": "AI-generated illustrative product catalogue photograph"
+  },
+  {
+    "productId": "p-470",
+    "path": "/product-photos/generated/catalog-471.webp",
+    "source": "AI-generated illustrative product catalogue photograph"
+  },
+  {
+    "productId": "p-542",
+    "path": "/product-photos/generated/catalog-472.webp",
+    "source": "AI-generated illustrative product catalogue photograph"
+  },
+  {
+    "productId": "p-544",
+    "path": "/product-photos/generated/catalog-473.webp",
+    "source": "AI-generated illustrative product catalogue photograph"
+  },
+  {
+    "productId": "p-547",
+    "path": "/product-photos/generated/catalog-474.webp",
+    "source": "AI-generated illustrative product catalogue photograph"
+  },
+  {
+    "productId": "p-548",
+    "path": "/product-photos/generated/catalog-475.webp",
+    "source": "AI-generated illustrative product catalogue photograph"
+  },
+  {
+    "productId": "p-550",
+    "path": "/product-photos/generated/catalog-476.webp",
+    "source": "AI-generated illustrative product catalogue photograph"
+  },
+  {
+    "productId": "p-553",
+    "path": "/product-photos/generated/catalog-477.webp",
+    "source": "AI-generated illustrative product catalogue photograph"
+  },
+  {
+    "productId": "p-554",
+    "path": "/product-photos/generated/catalog-478.webp",
+    "source": "AI-generated illustrative product catalogue photograph"
+  },
+  {
+    "productId": "p-555",
+    "path": "/product-photos/generated/catalog-479.webp",
+    "source": "AI-generated illustrative product catalogue photograph"
+  },
+  {
+    "productId": "p-556",
+    "path": "/product-photos/generated/catalog-480.webp",
+    "source": "AI-generated illustrative product catalogue photograph"
+  },
+  {
+    "productId": "p-557",
+    "path": "/product-photos/generated/catalog-481.webp",
+    "source": "AI-generated illustrative product catalogue photograph"
+  },
+  {
+    "productId": "p-558",
+    "path": "/product-photos/generated/catalog-482.webp",
+    "source": "AI-generated illustrative product catalogue photograph"
+  },
+  {
+    "productId": "p-560",
+    "path": "/product-photos/generated/catalog-483.webp",
+    "source": "AI-generated illustrative product catalogue photograph"
+  },
+  {
+    "productId": "p-561",
+    "path": "/product-photos/generated/catalog-484.webp",
+    "source": "AI-generated illustrative product catalogue photograph"
+  },
+  {
+    "productId": "p-562",
+    "path": "/product-photos/generated/catalog-485.webp",
+    "source": "AI-generated illustrative product catalogue photograph"
+  },
+  {
+    "productId": "p-563",
+    "path": "/product-photos/generated/catalog-486.webp",
+    "source": "AI-generated illustrative product catalogue photograph"
+  },
+  {
+    "productId": "p-564",
+    "path": "/product-photos/generated/catalog-487.webp",
+    "source": "AI-generated illustrative product catalogue photograph"
+  },
+  {
+    "productId": "p-566",
+    "path": "/product-photos/generated/catalog-488.webp",
+    "source": "AI-generated illustrative product catalogue photograph"
+  },
+  {
+    "productId": "p-517",
+    "path": "/product-photos/generated/catalog-489.webp",
+    "source": "AI-generated illustrative product catalogue photograph"
+  },
+  {
+    "productId": "p-519",
+    "path": "/product-photos/generated/catalog-490.webp",
+    "source": "AI-generated illustrative product catalogue photograph"
+  },
+  {
+    "productId": "p-523",
+    "path": "/product-photos/generated/catalog-491.webp",
+    "source": "AI-generated illustrative product catalogue photograph"
+  },
+  {
+    "productId": "p-536",
+    "path": "/product-photos/generated/catalog-492.webp",
+    "source": "AI-generated illustrative product catalogue photograph"
+  },
+  {
+    "productId": "p-537",
+    "path": "/product-photos/generated/catalog-493.webp",
+    "source": "AI-generated illustrative product catalogue photograph"
+  },
+  {
+    "productId": "p-538",
+    "path": "/product-photos/generated/catalog-494.webp",
+    "source": "AI-generated illustrative product catalogue photograph"
+  },
+  {
+    "productId": "p-540",
+    "path": "/product-photos/generated/catalog-495.webp",
+    "source": "AI-generated illustrative product catalogue photograph"
+  },
+  {
+    "productId": "p-488",
+    "path": "/product-photos/generated/catalog-496.webp",
+    "source": "AI-generated illustrative product catalogue photograph"
+  },
+  {
+    "productId": "p-490",
+    "path": "/product-photos/generated/catalog-497.webp",
+    "source": "AI-generated illustrative product catalogue photograph"
+  },
+  {
+    "productId": "p-492",
+    "path": "/product-photos/generated/catalog-498.webp",
+    "source": "AI-generated illustrative product catalogue photograph"
+  },
+  {
+    "productId": "p-493",
+    "path": "/product-photos/generated/catalog-499.webp",
+    "source": "AI-generated illustrative product catalogue photograph"
+  },
+  {
+    "productId": "p-494",
+    "path": "/product-photos/generated/catalog-500.webp",
+    "source": "AI-generated illustrative product catalogue photograph"
+  },
+  {
+    "productId": "p-495",
+    "path": "/product-photos/generated/catalog-501.webp",
+    "source": "AI-generated illustrative product catalogue photograph"
+  },
+  {
+    "productId": "p-496",
+    "path": "/product-photos/generated/catalog-502.webp",
+    "source": "AI-generated illustrative product catalogue photograph"
+  },
+  {
+    "productId": "p-497",
+    "path": "/product-photos/generated/catalog-503.webp",
+    "source": "AI-generated illustrative product catalogue photograph"
+  },
+  {
+    "productId": "p-244",
+    "path": "/product-photos/generated/catalog-504.webp",
+    "source": "AI-generated illustrative product catalogue photograph"
+  },
+  {
+    "productId": "p-248",
+    "path": "/product-photos/generated/catalog-505.webp",
+    "source": "AI-generated illustrative product catalogue photograph"
+  },
+  {
+    "productId": "p-254",
+    "path": "/product-photos/generated/catalog-506.webp",
+    "source": "AI-generated illustrative product catalogue photograph"
+  },
+  {
+    "productId": "p-257",
+    "path": "/product-photos/generated/catalog-507.webp",
+    "source": "AI-generated illustrative product catalogue photograph"
+  },
+  {
+    "productId": "p-258",
+    "path": "/product-photos/generated/catalog-508.webp",
+    "source": "AI-generated illustrative product catalogue photograph"
+  },
+  {
+    "productId": "p-259",
+    "path": "/product-photos/generated/catalog-509.webp",
+    "source": "AI-generated illustrative product catalogue photograph"
+  },
+  {
+    "productId": "p-260",
+    "path": "/product-photos/generated/catalog-510.webp",
+    "source": "AI-generated illustrative product catalogue photograph"
+  },
+  {
+    "productId": "p-261",
+    "path": "/product-photos/generated/catalog-511.webp",
+    "source": "AI-generated illustrative product catalogue photograph"
+  },
+  {
+    "productId": "p-262",
+    "path": "/product-photos/generated/catalog-512.webp",
+    "source": "AI-generated illustrative product catalogue photograph"
+  },
+  {
+    "productId": "p-264",
+    "path": "/product-photos/generated/catalog-513.webp",
+    "source": "AI-generated illustrative product catalogue photograph"
+  },
+  {
+    "productId": "p-696",
+    "path": "/product-photos/generated/catalog-514.webp",
+    "source": "AI-generated illustrative product catalogue photograph"
+  },
+  {
+    "productId": "p-700",
+    "path": "/product-photos/generated/catalog-515.webp",
+    "source": "AI-generated illustrative product catalogue photograph"
+  },
+  {
+    "productId": "p-702",
+    "path": "/product-photos/generated/catalog-516.webp",
+    "source": "AI-generated illustrative product catalogue photograph"
+  },
+  {
+    "productId": "p-704",
+    "path": "/product-photos/generated/catalog-517.webp",
+    "source": "AI-generated illustrative product catalogue photograph"
+  },
+  {
+    "productId": "p-706",
+    "path": "/product-photos/generated/catalog-518.webp",
+    "source": "AI-generated illustrative product catalogue photograph"
+  },
+  {
+    "productId": "p-708",
+    "path": "/product-photos/generated/catalog-519.webp",
+    "source": "AI-generated illustrative product catalogue photograph"
+  },
+  {
+    "productId": "p-710",
+    "path": "/product-photos/generated/catalog-520.webp",
+    "source": "AI-generated illustrative product catalogue photograph"
+  },
+  {
+    "productId": "p-712",
+    "path": "/product-photos/generated/catalog-521.webp",
+    "source": "AI-generated illustrative product catalogue photograph"
+  },
+  {
+    "productId": "p-713",
+    "path": "/product-photos/generated/catalog-522.webp",
+    "source": "AI-generated illustrative product catalogue photograph"
+  },
+  {
+    "productId": "p-714",
+    "path": "/product-photos/generated/catalog-523.webp",
+    "source": "AI-generated illustrative product catalogue photograph"
+  },
+  {
+    "productId": "p-423",
+    "path": "/product-photos/generated/catalog-524.webp",
+    "source": "AI-generated illustrative product catalogue photograph"
+  },
+  {
+    "productId": "p-424",
+    "path": "/product-photos/generated/catalog-525.webp",
+    "source": "AI-generated illustrative product catalogue photograph"
+  },
+  {
+    "productId": "p-425",
+    "path": "/product-photos/generated/catalog-526.webp",
+    "source": "AI-generated illustrative product catalogue photograph"
+  },
+  {
+    "productId": "p-426",
+    "path": "/product-photos/generated/catalog-527.webp",
+    "source": "AI-generated illustrative product catalogue photograph"
+  },
+  {
+    "productId": "p-427",
+    "path": "/product-photos/generated/catalog-528.webp",
+    "source": "AI-generated illustrative product catalogue photograph"
+  },
+  {
+    "productId": "p-428",
+    "path": "/product-photos/generated/catalog-529.webp",
+    "source": "AI-generated illustrative product catalogue photograph"
+  },
+  {
+    "productId": "p-429",
+    "path": "/product-photos/generated/catalog-530.webp",
+    "source": "AI-generated illustrative product catalogue photograph"
+  },
+  {
+    "productId": "p-430",
+    "path": "/product-photos/generated/catalog-531.webp",
+    "source": "AI-generated illustrative product catalogue photograph"
+  },
+  {
+    "productId": "p-431",
+    "path": "/product-photos/generated/catalog-532.webp",
+    "source": "AI-generated illustrative product catalogue photograph"
+  },
+  {
+    "productId": "p-432",
+    "path": "/product-photos/generated/catalog-533.webp",
+    "source": "AI-generated illustrative product catalogue photograph"
+  },
+  {
+    "productId": "p-433",
+    "path": "/product-photos/generated/catalog-534.webp",
+    "source": "AI-generated illustrative product catalogue photograph"
+  },
+  {
+    "productId": "p-434",
+    "path": "/product-photos/generated/catalog-535.webp",
+    "source": "AI-generated illustrative product catalogue photograph"
+  },
+  {
+    "productId": "p-435",
+    "path": "/product-photos/generated/catalog-536.webp",
+    "source": "AI-generated illustrative product catalogue photograph"
+  },
+  {
+    "productId": "p-436",
+    "path": "/product-photos/generated/catalog-537.webp",
+    "source": "AI-generated illustrative product catalogue photograph"
+  },
+  {
+    "productId": "p-437",
+    "path": "/product-photos/generated/catalog-538.webp",
+    "source": "AI-generated illustrative product catalogue photograph"
+  },
+  {
+    "productId": "p-439",
+    "path": "/product-photos/generated/catalog-539.webp",
+    "source": "AI-generated illustrative product catalogue photograph"
+  },
+  {
+    "productId": "p-440",
+    "path": "/product-photos/generated/catalog-540.webp",
+    "source": "AI-generated illustrative product catalogue photograph"
+  },
+  {
+    "productId": "p-361",
+    "path": "/product-photos/generated/catalog-541.webp",
+    "source": "AI-generated illustrative product catalogue photograph"
+  },
+  {
+    "productId": "p-362",
+    "path": "/product-photos/generated/catalog-542.webp",
+    "source": "AI-generated illustrative product catalogue photograph"
+  },
+  {
+    "productId": "p-363",
+    "path": "/product-photos/generated/catalog-543.webp",
+    "source": "AI-generated illustrative product catalogue photograph"
+  },
+  {
+    "productId": "p-364",
+    "path": "/product-photos/generated/catalog-544.webp",
+    "source": "AI-generated illustrative product catalogue photograph"
+  },
+  {
+    "productId": "p-365",
+    "path": "/product-photos/generated/catalog-545.webp",
+    "source": "AI-generated illustrative product catalogue photograph"
+  },
+  {
+    "productId": "p-366",
+    "path": "/product-photos/generated/catalog-546.webp",
+    "source": "AI-generated illustrative product catalogue photograph"
+  },
+  {
+    "productId": "p-367",
+    "path": "/product-photos/generated/catalog-547.webp",
+    "source": "AI-generated illustrative product catalogue photograph"
+  },
+  {
+    "productId": "p-368",
+    "path": "/product-photos/generated/catalog-548.webp",
+    "source": "AI-generated illustrative product catalogue photograph"
+  },
+  {
+    "productId": "p-371",
+    "path": "/product-photos/generated/catalog-549.webp",
+    "source": "AI-generated illustrative product catalogue photograph"
+  },
+  {
+    "productId": "p-372",
+    "path": "/product-photos/generated/catalog-550.webp",
+    "source": "AI-generated illustrative product catalogue photograph"
+  }
+]

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" role="img" aria-labelledby="title desc" data-product-id="p-039" data-product-name="Everyday Leather Belt" data-product-category="FASHION">
+<title id="title">Everyday Leather Belt product illustration</title><desc id="desc">A unique fashion illustration for Everyday Leather Belt. This is an original generic product illustration, not a supplier photograph.</desc>
+<defs>
+ <linearGradient id="bg-p-039" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f7e9e7"/><stop offset="1" stop-color="#eed1c8"/></linearGradient>
+ <linearGradient id="obj-p-039" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#eed1c8"/><stop offset="1" stop-color="#a34d56"/></linearGradient>
+ <filter id="shadow-p-039" x="-30%" y="-30%" width="160%" height="170%"><feDropShadow dx="0" dy="18" stdDeviation="15" flood-color="#4d2932" flood-opacity=".14"/></filter>
+</defs>
+<rect width="600" height="600" rx="38" fill="url(#bg-p-039)"/>
+<circle cx="108" cy="110" r="34" fill="#a34d56" opacity=".16"/><circle cx="488" cy="170" r="58" fill="#a34d56" opacity=".12"/><circle cx="505" cy="475" r="27" fill="#a34d56" opacity=".15"/><path d="M70 80v15" stroke="#4d2932" stroke-opacity=".12" stroke-width="4" stroke-linecap="round"/><path d="M94 80v15" stroke="#4d2932" stroke-opacity=".12" stroke-width="4" stroke-linecap="round"/><path d="M118 80v15" stroke="#4d2932" stroke-opacity=".12" stroke-width="4" stroke-linecap="round"/><path d="M142 80v15" stroke="#4d2932" stroke-opacity=".12" stroke-width="4" stroke-linecap="round"/><circle cx="436" cy="309" r="19" fill="#a34d56" opacity=".18"/><path d="M425 331q11 -15 22 0" fill="none" stroke="#4d2932" stroke-width="3" opacity=".28"/>
+<path d="M0 470c110-48 195-16 292 0s194 9 308-30v160H0z" fill="#f7e9e7" opacity=".8"/>
+<ellipse cx="300" cy="475" rx="178" ry="27" fill="#4d2932" opacity=".10"/>
+<g transform="translate(0 4) rotate(-1 300 305)" filter="url(#shadow-p-039)"><path d="M225 145l-95 65 50 95 55-28v180h130V277l55 28 50-95-95-65-45 48h-60z" fill="#a34d56" stroke="#4d2932" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/><path d="M270 190c0 45 60 45 60 0" fill="none" stroke="#4d2932" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/></g>
+<rect x="34" y="500" width="532" height="72" rx="20" fill="#fff" opacity=".80"/>
+<text x="54" y="528" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="700" letter-spacing="2.2" fill="#a34d56">FASHION · ILLUSTRATION</text>
+<text x="54" y="554" font-family="Arial,Helvetica,sans-serif" font-size="19" font-weight="700" fill="#4d2932">Everyday Leather Belt</text>
+<text x="548" y="554" text-anchor="end" font-family="Arial,Helvetica,sans-serif" font-size="10" font-weight="700" fill="#4d2932" opacity=".50">P-039</text>
+</svg>

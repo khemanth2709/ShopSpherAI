@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" role="img" aria-labelledby="title desc" data-product-id="p-025" data-product-name="Portable Mini Projector" data-product-category="TECH">
+<title id="title">Portable Mini Projector product illustration</title><desc id="desc">A unique tech illustration for Portable Mini Projector. This is an original generic product illustration, not a supplier photograph.</desc>
+<defs>
+ <linearGradient id="bg-p-025" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#e7f1f5"/><stop offset="1" stop-color="#c9dce5"/></linearGradient>
+ <linearGradient id="obj-p-025" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#c9dce5"/><stop offset="1" stop-color="#23627b"/></linearGradient>
+ <filter id="shadow-p-025" x="-30%" y="-30%" width="160%" height="170%"><feDropShadow dx="0" dy="18" stdDeviation="15" flood-color="#173b50" flood-opacity=".14"/></filter>
+</defs>
+<rect width="600" height="600" rx="38" fill="url(#bg-p-025)"/>
+<circle cx="153" cy="110" r="34" fill="#23627b" opacity=".16"/><circle cx="458" cy="170" r="58" fill="#23627b" opacity=".12"/><circle cx="505" cy="475" r="27" fill="#23627b" opacity=".15"/><path d="M70 80v15" stroke="#173b50" stroke-opacity=".12" stroke-width="4" stroke-linecap="round"/><path d="M94 80v15" stroke="#173b50" stroke-opacity=".12" stroke-width="4" stroke-linecap="round"/><path d="M118 80v15" stroke="#173b50" stroke-opacity=".12" stroke-width="4" stroke-linecap="round"/><path d="M142 80v15" stroke="#173b50" stroke-opacity=".12" stroke-width="4" stroke-linecap="round"/><circle cx="315" cy="310" r="19" fill="#23627b" opacity=".18"/><path d="M304 332q11 -15 22 0" fill="none" stroke="#173b50" stroke-width="3" opacity=".28"/>
+<path d="M0 470c110-48 195-16 292 0s194 9 308-30v160H0z" fill="#e7f1f5" opacity=".8"/>
+<ellipse cx="300" cy="475" rx="178" ry="27" fill="#173b50" opacity=".10"/>
+<g transform="translate(0 4) rotate(2 300 305)" filter="url(#shadow-p-025)"><path d="M300 145c-80 0-120 58-120 145v80c0 62 40 95 120 95s120-33 120-95v-80c0-87-40-145-120-145z" fill="#23627b" stroke="#173b50" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/><path d="M300 170v100" stroke="#173b50" stroke-width="9" stroke-linecap="round" stroke-linejoin="round" fill="none"/></g>
+<rect x="34" y="500" width="532" height="72" rx="20" fill="#fff" opacity=".80"/>
+<text x="54" y="528" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="700" letter-spacing="2.2" fill="#23627b">TECH · ILLUSTRATION</text>
+<text x="54" y="554" font-family="Arial,Helvetica,sans-serif" font-size="19" font-weight="700" fill="#173b50">Portable Mini Projector</text>
+<text x="548" y="554" text-anchor="end" font-family="Arial,Helvetica,sans-serif" font-size="10" font-weight="700" fill="#173b50" opacity=".50">P-025</text>
+</svg>

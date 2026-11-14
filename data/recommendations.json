@@ -1,0 +1,18 @@
+{
+  "trendingProductIds": [
+    "p-001",
+    "p-009",
+    "p-014",
+    "p-007"
+  ],
+  "frequentlyBoughtTogether": {
+    "p-001": [
+      "p-034",
+      "p-016"
+    ],
+    "p-004": [
+      "p-011",
+      "p-031"
+    ]
+  }
+}

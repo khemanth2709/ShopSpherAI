@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" role="img" aria-labelledby="title desc" data-product-id="p-031" data-product-name="Pocket Journal Set" data-product-category="LIFESTYLE">
+<title id="title">Pocket Journal Set product illustration</title><desc id="desc">A unique lifestyle illustration for Pocket Journal Set. This is an original generic product illustration, not a supplier photograph.</desc>
+<defs>
+ <linearGradient id="bg-p-031" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#e8f2ee"/><stop offset="1" stop-color="#d2e5dd"/></linearGradient>
+ <linearGradient id="obj-p-031" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#d2e5dd"/><stop offset="1" stop-color="#3b806c"/></linearGradient>
+ <filter id="shadow-p-031" x="-30%" y="-30%" width="160%" height="170%"><feDropShadow dx="0" dy="18" stdDeviation="15" flood-color="#24483e" flood-opacity=".14"/></filter>
+</defs>
+<rect width="600" height="600" rx="38" fill="url(#bg-p-031)"/>
+<circle cx="126" cy="110" r="34" fill="#3b806c" opacity=".16"/><circle cx="476" cy="170" r="58" fill="#3b806c" opacity=".12"/><circle cx="505" cy="475" r="27" fill="#3b806c" opacity=".15"/><path d="M70 80v15" stroke="#24483e" stroke-opacity=".12" stroke-width="4" stroke-linecap="round"/><path d="M94 80v15" stroke="#24483e" stroke-opacity=".12" stroke-width="4" stroke-linecap="round"/><path d="M118 80v15" stroke="#24483e" stroke-opacity=".12" stroke-width="4" stroke-linecap="round"/><path d="M142 80v15" stroke="#24483e" stroke-opacity=".12" stroke-width="4" stroke-linecap="round"/><path d="M166 80v15" stroke="#24483e" stroke-opacity=".12" stroke-width="4" stroke-linecap="round"/><path d="M190 80v15" stroke="#24483e" stroke-opacity=".12" stroke-width="4" stroke-linecap="round"/><circle cx="177" cy="168" r="12" fill="#3b806c" opacity=".18"/><path d="M166 190q11 -15 22 0" fill="none" stroke="#24483e" stroke-width="3" opacity=".28"/>
+<path d="M0 470c110-48 195-16 292 0s194 9 308-30v160H0z" fill="#e8f2ee" opacity=".8"/>
+<ellipse cx="300" cy="475" rx="178" ry="27" fill="#24483e" opacity=".10"/>
+<g transform="translate(0 4) rotate(1 300 305)" filter="url(#shadow-p-031)"><rect x="145" y="140" width="230" height="330" rx="25" fill="#3b806c" stroke="#24483e" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/><path d="M190 215h140m-140 55h140m-140 55h110m-110 55h130" stroke="#24483e" stroke-width="9" stroke-linecap="round" stroke-linejoin="round" fill="none"/><path d="M420 155l28 24-110 210-45 18 14-47z" fill="#d2e5dd" stroke="#24483e" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/></g>
+<rect x="34" y="500" width="532" height="72" rx="20" fill="#fff" opacity=".80"/>
+<text x="54" y="528" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="700" letter-spacing="2.2" fill="#3b806c">LIFESTYLE · ILLUSTRATION</text>
+<text x="54" y="554" font-family="Arial,Helvetica,sans-serif" font-size="19" font-weight="700" fill="#24483e">Pocket Journal Set</text>
+<text x="548" y="554" text-anchor="end" font-family="Arial,Helvetica,sans-serif" font-size="10" font-weight="700" fill="#24483e" opacity=".50">P-031</text>
+</svg>

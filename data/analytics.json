@@ -1,0 +1,17 @@
+{
+  "source": "Local Analytics",
+  "recommendationImpressions": 124,
+  "recommendationClicks": 38,
+  "recommendationConversions": 9,
+  "strategyCounts": {
+    "recently-viewed": 12,
+    "similar": 20,
+    "category-based": 18,
+    "price-based": 11,
+    "wishlist-based": 13,
+    "cart-based": 15,
+    "frequently-bought": 9,
+    "trending": 26,
+    "personalized": 31
+  }
+}

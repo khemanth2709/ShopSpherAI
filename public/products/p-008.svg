@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" role="img" aria-labelledby="title desc" data-product-id="p-008" data-product-name="Classic Everyday Watch" data-product-category="FASHION">
+<title id="title">Classic Everyday Watch product illustration</title><desc id="desc">A unique fashion illustration for Classic Everyday Watch. This is an original generic product illustration, not a supplier photograph.</desc>
+<defs>
+ <linearGradient id="bg-p-008" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f7e9e7"/><stop offset="1" stop-color="#eed1c8"/></linearGradient>
+ <linearGradient id="obj-p-008" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#eed1c8"/><stop offset="1" stop-color="#a34d56"/></linearGradient>
+ <filter id="shadow-p-008" x="-30%" y="-30%" width="160%" height="170%"><feDropShadow dx="0" dy="18" stdDeviation="15" flood-color="#4d2932" flood-opacity=".14"/></filter>
+</defs>
+<rect width="600" height="600" rx="38" fill="url(#bg-p-008)"/>
+<circle cx="162" cy="110" r="34" fill="#a34d56" opacity=".16"/><circle cx="452" cy="170" r="58" fill="#a34d56" opacity=".12"/><circle cx="505" cy="475" r="27" fill="#a34d56" opacity=".15"/><path d="M70 80v15" stroke="#4d2932" stroke-opacity=".12" stroke-width="4" stroke-linecap="round"/><path d="M94 80v15" stroke="#4d2932" stroke-opacity=".12" stroke-width="4" stroke-linecap="round"/><path d="M118 80v15" stroke="#4d2932" stroke-opacity=".12" stroke-width="4" stroke-linecap="round"/><path d="M142 80v15" stroke="#4d2932" stroke-opacity=".12" stroke-width="4" stroke-linecap="round"/><path d="M166 80v15" stroke="#4d2932" stroke-opacity=".12" stroke-width="4" stroke-linecap="round"/><circle cx="406" cy="329" r="15" fill="#a34d56" opacity=".18"/><path d="M395 351q11 -15 22 0" fill="none" stroke="#4d2932" stroke-width="3" opacity=".28"/>
+<path d="M0 470c110-48 195-16 292 0s194 9 308-30v160H0z" fill="#f7e9e7" opacity=".8"/>
+<ellipse cx="300" cy="475" rx="178" ry="27" fill="#4d2932" opacity=".10"/>
+<g transform="translate(0 4) rotate(-2 300 305)" filter="url(#shadow-p-008)"><path d="M245 92h110l20 110H225zm-20 296h150l-20 120H245z" fill="#eed1c8" stroke="#4d2932" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/><rect x="190" y="205" width="220" height="190" rx="52" fill="#a34d56" stroke="#4d2932" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/><circle cx="300" cy="300" r="72" fill="#eed1c8" stroke="#4d2932" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/><path d="M300 300v-48m0 48l43 22" stroke="#4d2932" stroke-width="9" stroke-linecap="round" stroke-linejoin="round" fill="none"/></g>
+<rect x="34" y="500" width="532" height="72" rx="20" fill="#fff" opacity=".80"/>
+<text x="54" y="528" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="700" letter-spacing="2.2" fill="#a34d56">FASHION · ILLUSTRATION</text>
+<text x="54" y="554" font-family="Arial,Helvetica,sans-serif" font-size="19" font-weight="700" fill="#4d2932">Classic Everyday Watch</text>
+<text x="548" y="554" text-anchor="end" font-family="Arial,Helvetica,sans-serif" font-size="10" font-weight="700" fill="#4d2932" opacity=".50">P-008</text>
+</svg>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" role="img" aria-labelledby="title desc" data-product-id="p-216" data-product-name="Artisan Green Tea Sampler" data-product-category="GROCERY &amp; PANTRY">
+<title id="title">Artisan Green Tea Sampler product illustration</title><desc id="desc">A unique grocery &amp; pantry illustration for Artisan Green Tea Sampler. This is an original generic product illustration, not a supplier photograph.</desc>
+<defs>
+ <linearGradient id="bg-p-216" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f4efe0"/><stop offset="1" stop-color="#e9dfbd"/></linearGradient>
+ <linearGradient id="obj-p-216" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#e9dfbd"/><stop offset="1" stop-color="#9c7c35"/></linearGradient>
+ <filter id="shadow-p-216" x="-30%" y="-30%" width="160%" height="170%"><feDropShadow dx="0" dy="18" stdDeviation="15" flood-color="#51421e" flood-opacity=".14"/></filter>
+</defs>
+<rect width="600" height="600" rx="38" fill="url(#bg-p-216)"/>
+<circle cx="90" cy="110" r="34" fill="#9c7c35" opacity=".16"/><circle cx="500" cy="170" r="58" fill="#9c7c35" opacity=".12"/><circle cx="505" cy="475" r="27" fill="#9c7c35" opacity=".15"/><path d="M70 80v15" stroke="#51421e" stroke-opacity=".12" stroke-width="4" stroke-linecap="round"/><path d="M94 80v15" stroke="#51421e" stroke-opacity=".12" stroke-width="4" stroke-linecap="round"/><circle cx="182" cy="313" r="15" fill="#9c7c35" opacity=".18"/><path d="M171 335q11 -15 22 0" fill="none" stroke="#51421e" stroke-width="3" opacity=".28"/>
+<path d="M0 470c110-48 195-16 292 0s194 9 308-30v160H0z" fill="#f4efe0" opacity=".8"/>
+<ellipse cx="300" cy="475" rx="178" ry="27" fill="#51421e" opacity=".10"/>
+<g transform="translate(0 4) rotate(-5 300 305)" filter="url(#shadow-p-216)"><path d="M170 220h260l-25 250H195z" fill="#9c7c35" stroke="#51421e" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/><path d="M205 220l28-60h134l28 60" fill="#e9dfbd" stroke="#51421e" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/><circle cx="270" cy="330" r="38" fill="#e9dfbd"/><circle cx="350" cy="340" r="35" fill="#9c7c35"/><path d="M300 275c-28-46-65-42-70-10 35 18 54 20 70 10zm0 0c18-48 62-52 76-22-27 24-50 28-76 22z" fill="#51421e"/></g>
+<rect x="34" y="500" width="532" height="72" rx="20" fill="#fff" opacity=".80"/>
+<text x="54" y="528" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="700" letter-spacing="2.2" fill="#9c7c35">GROCERY &amp; PANTRY · ILLUSTRATION</text>
+<text x="54" y="554" font-family="Arial,Helvetica,sans-serif" font-size="19" font-weight="700" fill="#51421e">Artisan Green Tea Sampler</text>
+<text x="548" y="554" text-anchor="end" font-family="Arial,Helvetica,sans-serif" font-size="10" font-weight="700" fill="#51421e" opacity=".50">P-216</text>
+</svg>

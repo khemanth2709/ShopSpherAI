@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" role="img" aria-labelledby="title desc" data-product-id="p-695" data-product-name="Modern Two-Drawer Bedside Table" data-product-category="FURNITURE">
+<title id="title">Modern Two-Drawer Bedside… product illustration</title><desc id="desc">A unique furniture illustration for Modern Two-Drawer Bedside Table. This is an original generic product illustration, not a supplier photograph.</desc>
+<defs>
+ <linearGradient id="bg-p-695" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#eeeae3"/><stop offset="1" stop-color="#dfd8ca"/></linearGradient>
+ <linearGradient id="obj-p-695" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#dfd8ca"/><stop offset="1" stop-color="#927f61"/></linearGradient>
+ <filter id="shadow-p-695" x="-30%" y="-30%" width="160%" height="170%"><feDropShadow dx="0" dy="18" stdDeviation="15" flood-color="#4d4232" flood-opacity=".14"/></filter>
+</defs>
+<rect width="600" height="600" rx="38" fill="url(#bg-p-695)"/>
+<circle cx="108" cy="110" r="34" fill="#927f61" opacity=".16"/><circle cx="488" cy="170" r="58" fill="#927f61" opacity=".12"/><circle cx="505" cy="475" r="27" fill="#927f61" opacity=".15"/><path d="M70 80v15" stroke="#4d4232" stroke-opacity=".12" stroke-width="4" stroke-linecap="round"/><path d="M94 80v15" stroke="#4d4232" stroke-opacity=".12" stroke-width="4" stroke-linecap="round"/><path d="M118 80v15" stroke="#4d4232" stroke-opacity=".12" stroke-width="4" stroke-linecap="round"/><path d="M142 80v15" stroke="#4d4232" stroke-opacity=".12" stroke-width="4" stroke-linecap="round"/><circle cx="265" cy="170" r="13" fill="#927f61" opacity=".18"/><path d="M254 192q11 -15 22 0" fill="none" stroke="#4d4232" stroke-width="3" opacity=".28"/>
+<path d="M0 470c110-48 195-16 292 0s194 9 308-30v160H0z" fill="#eeeae3" opacity=".8"/>
+<ellipse cx="300" cy="475" rx="178" ry="27" fill="#4d4232" opacity=".10"/>
+<g transform="translate(0 4) rotate(-1 300 305)" filter="url(#shadow-p-695)"><path d="M210 190h180v250H210z" fill="#927f61" stroke="#4d4232" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/><path d="M245 225h110v70H245zm0 105h110v75H245z" fill="#dfd8ca" stroke="#4d4232" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/></g>
+<rect x="34" y="500" width="532" height="72" rx="20" fill="#fff" opacity=".80"/>
+<text x="54" y="528" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="700" letter-spacing="2.2" fill="#927f61">FURNITURE · ILLUSTRATION</text>
+<text x="54" y="554" font-family="Arial,Helvetica,sans-serif" font-size="19" font-weight="700" fill="#4d4232">Modern Two-Drawer Bedside…</text>
+<text x="548" y="554" text-anchor="end" font-family="Arial,Helvetica,sans-serif" font-size="10" font-weight="700" fill="#4d4232" opacity=".50">P-695</text>
+</svg>

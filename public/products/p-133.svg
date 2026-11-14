@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" role="img" aria-labelledby="title desc" data-product-id="p-133" data-product-name="Daily Cleansing Balm" data-product-category="BEAUTY">
+<title id="title">Daily Cleansing Balm product illustration</title><desc id="desc">A unique beauty illustration for Daily Cleansing Balm. This is an original generic product illustration, not a supplier photograph.</desc>
+<defs>
+ <linearGradient id="bg-p-133" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f6e8ed"/><stop offset="1" stop-color="#efd4df"/></linearGradient>
+ <linearGradient id="obj-p-133" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#efd4df"/><stop offset="1" stop-color="#b45d83"/></linearGradient>
+ <filter id="shadow-p-133" x="-30%" y="-30%" width="160%" height="170%"><feDropShadow dx="0" dy="18" stdDeviation="15" flood-color="#5e3048" flood-opacity=".14"/></filter>
+</defs>
+<rect width="600" height="600" rx="38" fill="url(#bg-p-133)"/>
+<circle cx="153" cy="110" r="34" fill="#b45d83" opacity=".16"/><circle cx="458" cy="170" r="58" fill="#b45d83" opacity=".12"/><circle cx="505" cy="475" r="27" fill="#b45d83" opacity=".15"/><path d="M70 80v15" stroke="#5e3048" stroke-opacity=".12" stroke-width="4" stroke-linecap="round"/><path d="M94 80v15" stroke="#5e3048" stroke-opacity=".12" stroke-width="4" stroke-linecap="round"/><path d="M118 80v15" stroke="#5e3048" stroke-opacity=".12" stroke-width="4" stroke-linecap="round"/><path d="M142 80v15" stroke="#5e3048" stroke-opacity=".12" stroke-width="4" stroke-linecap="round"/><circle cx="351" cy="284" r="10" fill="#b45d83" opacity=".18"/><path d="M340 306q11 -15 22 0" fill="none" stroke="#5e3048" stroke-width="3" opacity=".28"/>
+<path d="M0 470c110-48 195-16 292 0s194 9 308-30v160H0z" fill="#f6e8ed" opacity=".8"/>
+<ellipse cx="300" cy="475" rx="178" ry="27" fill="#5e3048" opacity=".10"/>
+<g transform="translate(0 4) rotate(2 300 305)" filter="url(#shadow-p-133)"><rect x="175" y="270" width="250" height="195" rx="35" fill="#b45d83" stroke="#5e3048" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/><rect x="230" y="210" width="140" height="60" rx="14" fill="#efd4df" stroke="#5e3048" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/><path d="M220 345h160" stroke="#5e3048" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/></g>
+<rect x="34" y="500" width="532" height="72" rx="20" fill="#fff" opacity=".80"/>
+<text x="54" y="528" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="700" letter-spacing="2.2" fill="#b45d83">BEAUTY · ILLUSTRATION</text>
+<text x="54" y="554" font-family="Arial,Helvetica,sans-serif" font-size="19" font-weight="700" fill="#5e3048">Daily Cleansing Balm</text>
+<text x="548" y="554" text-anchor="end" font-family="Arial,Helvetica,sans-serif" font-size="10" font-weight="700" fill="#5e3048" opacity=".50">P-133</text>
+</svg>

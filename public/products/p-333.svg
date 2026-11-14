@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" role="img" aria-labelledby="title desc" data-product-id="p-333" data-product-name="HappyPaws Slow Feeder Bowl" data-product-category="PET SUPPLIES">
+<title id="title">HappyPaws Slow Feeder Bowl product illustration</title><desc id="desc">A unique pet supplies illustration for HappyPaws Slow Feeder Bowl. This is an original generic product illustration, not a supplier photograph.</desc>
+<defs>
+ <linearGradient id="bg-p-333" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f1eee7"/><stop offset="1" stop-color="#e5dac7"/></linearGradient>
+ <linearGradient id="obj-p-333" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#e5dac7"/><stop offset="1" stop-color="#8e7351"/></linearGradient>
+ <filter id="shadow-p-333" x="-30%" y="-30%" width="160%" height="170%"><feDropShadow dx="0" dy="18" stdDeviation="15" flood-color="#4a3a2a" flood-opacity=".14"/></filter>
+</defs>
+<rect width="600" height="600" rx="38" fill="url(#bg-p-333)"/>
+<circle cx="90" cy="110" r="34" fill="#8e7351" opacity=".16"/><circle cx="500" cy="170" r="58" fill="#8e7351" opacity=".12"/><circle cx="505" cy="475" r="27" fill="#8e7351" opacity=".15"/><path d="M70 80v15" stroke="#4a3a2a" stroke-opacity=".12" stroke-width="4" stroke-linecap="round"/><path d="M94 80v15" stroke="#4a3a2a" stroke-opacity=".12" stroke-width="4" stroke-linecap="round"/><circle cx="191" cy="304" r="15" fill="#8e7351" opacity=".18"/><path d="M180 326q11 -15 22 0" fill="none" stroke="#4a3a2a" stroke-width="3" opacity=".28"/>
+<path d="M0 470c110-48 195-16 292 0s194 9 308-30v160H0z" fill="#f1eee7" opacity=".8"/>
+<ellipse cx="300" cy="475" rx="178" ry="27" fill="#4a3a2a" opacity=".10"/>
+<g transform="translate(0 4) rotate(-5 300 305)" filter="url(#shadow-p-333)"><path d="M150 345h300l-42 110H192z" fill="#8e7351" stroke="#4a3a2a" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/><path d="M210 345c0-48 40-80 90-80s90 32 90 80" fill="none" stroke="#4a3a2a" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/><circle cx="205" cy="205" r="36" fill="#8e7351"/><circle cx="282" cy="160" r="36" fill="#8e7351"/><circle cx="358" cy="160" r="36" fill="#8e7351"/><circle cx="420" cy="205" r="36" fill="#8e7351"/><ellipse cx="312" cy="235" rx="74" ry="55" fill="#8e7351" stroke="#4a3a2a" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/></g>
+<rect x="34" y="500" width="532" height="72" rx="20" fill="#fff" opacity=".80"/>
+<text x="54" y="528" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="700" letter-spacing="2.2" fill="#8e7351">PET SUPPLIES · ILLUSTRATION</text>
+<text x="54" y="554" font-family="Arial,Helvetica,sans-serif" font-size="19" font-weight="700" fill="#4a3a2a">HappyPaws Slow Feeder Bowl</text>
+<text x="548" y="554" text-anchor="end" font-family="Arial,Helvetica,sans-serif" font-size="10" font-weight="700" fill="#4a3a2a" opacity=".50">P-333</text>
+</svg>

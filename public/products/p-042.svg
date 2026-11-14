@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" role="img" aria-labelledby="title desc" data-product-id="p-042" data-product-name="Rechargeable Table Light" data-product-category="HOME">
+<title id="title">Rechargeable Table Light product illustration</title><desc id="desc">A unique home illustration for Rechargeable Table Light. This is an original generic product illustration, not a supplier photograph.</desc>
+<defs>
+ <linearGradient id="bg-p-042" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f2ede3"/><stop offset="1" stop-color="#e6ddcb"/></linearGradient>
+ <linearGradient id="obj-p-042" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#e6ddcb"/><stop offset="1" stop-color="#8a7459"/></linearGradient>
+ <filter id="shadow-p-042" x="-30%" y="-30%" width="160%" height="170%"><feDropShadow dx="0" dy="18" stdDeviation="15" flood-color="#443b31" flood-opacity=".14"/></filter>
+</defs>
+<rect width="600" height="600" rx="38" fill="url(#bg-p-042)"/>
+<circle cx="135" cy="110" r="34" fill="#8a7459" opacity=".16"/><circle cx="470" cy="170" r="58" fill="#8a7459" opacity=".12"/><circle cx="505" cy="475" r="27" fill="#8a7459" opacity=".15"/><path d="M70 80v15" stroke="#443b31" stroke-opacity=".12" stroke-width="4" stroke-linecap="round"/><path d="M94 80v15" stroke="#443b31" stroke-opacity=".12" stroke-width="4" stroke-linecap="round"/><circle cx="187" cy="238" r="9" fill="#8a7459" opacity=".18"/><path d="M176 260q11 -15 22 0" fill="none" stroke="#443b31" stroke-width="3" opacity=".28"/>
+<path d="M0 470c110-48 195-16 292 0s194 9 308-30v160H0z" fill="#f2ede3" opacity=".8"/>
+<ellipse cx="300" cy="475" rx="178" ry="27" fill="#443b31" opacity=".10"/>
+<g transform="translate(0 4) rotate(3 300 305)" filter="url(#shadow-p-042)"><path d="M210 190h180v250H210z" fill="#8a7459" stroke="#443b31" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/><path d="M245 225h110v70H245zm0 105h110v75H245z" fill="#e6ddcb" stroke="#443b31" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/></g>
+<rect x="34" y="500" width="532" height="72" rx="20" fill="#fff" opacity=".80"/>
+<text x="54" y="528" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="700" letter-spacing="2.2" fill="#8a7459">HOME · ILLUSTRATION</text>
+<text x="54" y="554" font-family="Arial,Helvetica,sans-serif" font-size="19" font-weight="700" fill="#443b31">Rechargeable Table Light</text>
+<text x="548" y="554" text-anchor="end" font-family="Arial,Helvetica,sans-serif" font-size="10" font-weight="700" fill="#443b31" opacity=".50">P-042</text>
+</svg>

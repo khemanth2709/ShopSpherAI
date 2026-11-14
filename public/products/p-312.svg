@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" role="img" aria-labelledby="title desc" data-product-id="p-312" data-product-name="Drive Microfibre Cloth Kit" data-product-category="AUTOMOTIVE">
+<title id="title">Drive Microfibre Cloth Kit product illustration</title><desc id="desc">A unique automotive illustration for Drive Microfibre Cloth Kit. This is an original generic product illustration, not a supplier photograph.</desc>
+<defs>
+ <linearGradient id="bg-p-312" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#e8edf1"/><stop offset="1" stop-color="#d3dce4"/></linearGradient>
+ <linearGradient id="obj-p-312" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#d3dce4"/><stop offset="1" stop-color="#586d7f"/></linearGradient>
+ <filter id="shadow-p-312" x="-30%" y="-30%" width="160%" height="170%"><feDropShadow dx="0" dy="18" stdDeviation="15" flood-color="#2b3c49" flood-opacity=".14"/></filter>
+</defs>
+<rect width="600" height="600" rx="38" fill="url(#bg-p-312)"/>
+<circle cx="144" cy="110" r="34" fill="#586d7f" opacity=".16"/><circle cx="464" cy="170" r="58" fill="#586d7f" opacity=".12"/><circle cx="505" cy="475" r="27" fill="#586d7f" opacity=".15"/><path d="M70 80v15" stroke="#2b3c49" stroke-opacity=".12" stroke-width="4" stroke-linecap="round"/><path d="M94 80v15" stroke="#2b3c49" stroke-opacity=".12" stroke-width="4" stroke-linecap="round"/><path d="M118 80v15" stroke="#2b3c49" stroke-opacity=".12" stroke-width="4" stroke-linecap="round"/><circle cx="134" cy="341" r="7" fill="#586d7f" opacity=".18"/><path d="M123 363q11 -15 22 0" fill="none" stroke="#2b3c49" stroke-width="3" opacity=".28"/>
+<path d="M0 470c110-48 195-16 292 0s194 9 308-30v160H0z" fill="#e8edf1" opacity=".8"/>
+<ellipse cx="300" cy="475" rx="178" ry="27" fill="#2b3c49" opacity=".10"/>
+<g transform="translate(0 4) rotate(5 300 305)" filter="url(#shadow-p-312)"><path d="M125 330l45-105c12-28 34-45 68-45h120c37 0 62 18 79 52l40 98" fill="#586d7f" stroke="#2b3c49" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/><rect x="100" y="310" width="400" height="125" rx="35" fill="#586d7f" stroke="#2b3c49" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/><circle cx="195" cy="435" r="42" fill="#2b3c49"/><circle cx="405" cy="435" r="42" fill="#2b3c49"/><circle cx="195" cy="435" r="18" fill="#d3dce4"/><circle cx="405" cy="435" r="18" fill="#d3dce4"/></g>
+<rect x="34" y="500" width="532" height="72" rx="20" fill="#fff" opacity=".80"/>
+<text x="54" y="528" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="700" letter-spacing="2.2" fill="#586d7f">AUTOMOTIVE · ILLUSTRATION</text>
+<text x="54" y="554" font-family="Arial,Helvetica,sans-serif" font-size="19" font-weight="700" fill="#2b3c49">Drive Microfibre Cloth Kit</text>
+<text x="548" y="554" text-anchor="end" font-family="Arial,Helvetica,sans-serif" font-size="10" font-weight="700" fill="#2b3c49" opacity=".50">P-312</text>
+</svg>

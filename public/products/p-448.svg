@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" role="img" aria-labelledby="title desc" data-product-id="p-448" data-product-name="Creative Replacement Ink Set" data-product-category="OFFICE &amp; STATIONERY">
+<title id="title">Creative Replacement Ink Set product illustration</title><desc id="desc">A unique office &amp; stationery illustration for Creative Replacement Ink Set. This is an original generic product illustration, not a supplier photograph.</desc>
+<defs>
+ <linearGradient id="bg-p-448" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ebeff4"/><stop offset="1" stop-color="#d9e1ec"/></linearGradient>
+ <linearGradient id="obj-p-448" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#d9e1ec"/><stop offset="1" stop-color="#647d9b"/></linearGradient>
+ <filter id="shadow-p-448" x="-30%" y="-30%" width="160%" height="170%"><feDropShadow dx="0" dy="18" stdDeviation="15" flood-color="#324258" flood-opacity=".14"/></filter>
+</defs>
+<rect width="600" height="600" rx="38" fill="url(#bg-p-448)"/>
+<circle cx="153" cy="110" r="34" fill="#647d9b" opacity=".16"/><circle cx="458" cy="170" r="58" fill="#647d9b" opacity=".12"/><circle cx="505" cy="475" r="27" fill="#647d9b" opacity=".15"/><path d="M70 80v15" stroke="#324258" stroke-opacity=".12" stroke-width="4" stroke-linecap="round"/><path d="M94 80v15" stroke="#324258" stroke-opacity=".12" stroke-width="4" stroke-linecap="round"/><path d="M118 80v15" stroke="#324258" stroke-opacity=".12" stroke-width="4" stroke-linecap="round"/><path d="M142 80v15" stroke="#324258" stroke-opacity=".12" stroke-width="4" stroke-linecap="round"/><circle cx="126" cy="189" r="13" fill="#647d9b" opacity=".18"/><path d="M115 211q11 -15 22 0" fill="none" stroke="#324258" stroke-width="3" opacity=".28"/>
+<path d="M0 470c110-48 195-16 292 0s194 9 308-30v160H0z" fill="#ebeff4" opacity=".8"/>
+<ellipse cx="300" cy="475" rx="178" ry="27" fill="#324258" opacity=".10"/>
+<g transform="translate(0 4) rotate(2 300 305)" filter="url(#shadow-p-448)"><rect x="145" y="140" width="230" height="330" rx="25" fill="#647d9b" stroke="#324258" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/><path d="M190 215h140m-140 55h140m-140 55h110m-110 55h130" stroke="#324258" stroke-width="9" stroke-linecap="round" stroke-linejoin="round" fill="none"/><path d="M420 155l28 24-110 210-45 18 14-47z" fill="#d9e1ec" stroke="#324258" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/></g>
+<rect x="34" y="500" width="532" height="72" rx="20" fill="#fff" opacity=".80"/>
+<text x="54" y="528" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="700" letter-spacing="2.2" fill="#647d9b">OFFICE &amp; STATIONERY · ILLUSTRATION</text>
+<text x="54" y="554" font-family="Arial,Helvetica,sans-serif" font-size="19" font-weight="700" fill="#324258">Creative Replacement Ink Set</text>
+<text x="548" y="554" text-anchor="end" font-family="Arial,Helvetica,sans-serif" font-size="10" font-weight="700" fill="#324258" opacity=".50">P-448</text>
+</svg>

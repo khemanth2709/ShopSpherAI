@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" role="img" aria-labelledby="title desc" data-product-id="p-377" data-product-name="GreenThumb Hanging Bird Feeder" data-product-category="GARDEN &amp; OUTDOOR">
+<title id="title">GreenThumb Hanging Bird Fe… product illustration</title><desc id="desc">A unique garden &amp; outdoor illustration for GreenThumb Hanging Bird Feeder. This is an original generic product illustration, not a supplier photograph.</desc>
+<defs>
+ <linearGradient id="bg-p-377" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#e9f1e6"/><stop offset="1" stop-color="#d3e5ca"/></linearGradient>
+ <linearGradient id="obj-p-377" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#d3e5ca"/><stop offset="1" stop-color="#5f8c50"/></linearGradient>
+ <filter id="shadow-p-377" x="-30%" y="-30%" width="160%" height="170%"><feDropShadow dx="0" dy="18" stdDeviation="15" flood-color="#355336" flood-opacity=".14"/></filter>
+</defs>
+<rect width="600" height="600" rx="38" fill="url(#bg-p-377)"/>
+<circle cx="162" cy="110" r="34" fill="#5f8c50" opacity=".16"/><circle cx="452" cy="170" r="58" fill="#5f8c50" opacity=".12"/><circle cx="505" cy="475" r="27" fill="#5f8c50" opacity=".15"/><path d="M70 80v15" stroke="#355336" stroke-opacity=".12" stroke-width="4" stroke-linecap="round"/><path d="M94 80v15" stroke="#355336" stroke-opacity=".12" stroke-width="4" stroke-linecap="round"/><path d="M118 80v15" stroke="#355336" stroke-opacity=".12" stroke-width="4" stroke-linecap="round"/><path d="M142 80v15" stroke="#355336" stroke-opacity=".12" stroke-width="4" stroke-linecap="round"/><path d="M166 80v15" stroke="#355336" stroke-opacity=".12" stroke-width="4" stroke-linecap="round"/><circle cx="379" cy="336" r="7" fill="#5f8c50" opacity=".18"/><path d="M368 358q11 -15 22 0" fill="none" stroke="#355336" stroke-width="3" opacity=".28"/>
+<path d="M0 470c110-48 195-16 292 0s194 9 308-30v160H0z" fill="#e9f1e6" opacity=".8"/>
+<ellipse cx="300" cy="475" rx="178" ry="27" fill="#355336" opacity=".10"/>
+<g transform="translate(0 4) rotate(-2 300 305)" filter="url(#shadow-p-377)"><path d="M170 335h260l-30 140H200z" fill="#5f8c50" stroke="#355336" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/><path d="M300 335V170m0 80c-105 0-125-90-125-90s95-28 125 90zm0-42c15-115 130-125 130-125s-3 110-130 125z" fill="#5f8c50" stroke="#355336" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/><path d="M210 375h180" stroke="#355336" stroke-width="9" stroke-linecap="round" stroke-linejoin="round" fill="none"/></g>
+<rect x="34" y="500" width="532" height="72" rx="20" fill="#fff" opacity=".80"/>
+<text x="54" y="528" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="700" letter-spacing="2.2" fill="#5f8c50">GARDEN &amp; OUTDOOR · ILLUSTRATION</text>
+<text x="54" y="554" font-family="Arial,Helvetica,sans-serif" font-size="19" font-weight="700" fill="#355336">GreenThumb Hanging Bird Fe…</text>
+<text x="548" y="554" text-anchor="end" font-family="Arial,Helvetica,sans-serif" font-size="10" font-weight="700" fill="#355336" opacity=".50">P-377</text>
+</svg>

@@ -1,0 +1,65 @@
+{
+  "name": "shopsphere-ai",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint .",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "test:e2e": "playwright test",
+    "typecheck": "tsc --noEmit",
+    "test:e2e:install": "playwright install chromium",
+    "audit:images": "node scripts/audit-product-images.mjs",
+    "audit:product-photos": "node scripts/audit-real-product-photos.mjs",
+    "audit:all": "node scripts/verify-release.mjs",
+    "audit:source": "node scripts/audit-source.mjs",
+    "check": "npm run audit:all && npm run audit:source && npm run typecheck && npm test",
+    "verify:release": "npm run check && npm run lint && npm run build && npm audit --omit=dev",
+    "db:check": "node scripts/check-database.mjs",
+    "photos:import": "node scripts/import-openverse-product-photos.mjs",
+    "photos:status": "node scripts/check-product-photos.mjs",
+    "photos:apply-bundled": "node scripts/apply-bundled-product-photos.mjs"
+  },
+  "dependencies": {
+    "@tanstack/react-query": "^5.62.7",
+    "better-sqlite3": "^13.1.1",
+    "clsx": "^2.1.1",
+    "lucide-react": "^0.468.0",
+    "next": "15.5.29",
+    "react": "19.1.10",
+    "react-dom": "19.1.10",
+    "tailwind-merge": "^2.5.5",
+    "zustand": "^5.0.2",
+    "sharp": "^0.35.5"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.49.1",
+    "@testing-library/jest-dom": "^6.6.3",
+    "@testing-library/react": "^16.1.0",
+    "@testing-library/user-event": "^14.5.2",
+    "@types/better-sqlite3": "^9.6.0",
+    "@types/node": "^22.10.2",
+    "@types/react": "^19.0.3",
+    "@types/react-dom": "^19.0.2",
+    "@vitejs/plugin-react": "^4.3.4",
+    "autoprefixer": "^10.4.20",
+    "eslint": "^8.57.1",
+    "eslint-config-next": "15.5.29",
+    "jsdom": "^25.0.1",
+    "postcss": "^8.5.32",
+    "tailwindcss": "^3.4.17",
+    "typescript": "^5.7.2",
+    "vitest": "^2.1.8"
+  },
+  "engines": {
+    "node": ">=22.14.0 <23"
+  },
+  "overrides": {
+    "next": {
+      "postcss": "8.5.32"
+    }
+  }
+}

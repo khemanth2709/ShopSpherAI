@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" role="img" aria-labelledby="title desc" data-product-id="p-457" data-product-name="Journey Hanging Toiletry Bag" data-product-category="TRAVEL &amp; LUGGAGE">
+<title id="title">Journey Hanging Toiletry Bag product illustration</title><desc id="desc">A unique travel &amp; luggage illustration for Journey Hanging Toiletry Bag. This is an original generic product illustration, not a supplier photograph.</desc>
+<defs>
+ <linearGradient id="bg-p-457" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#e8eef1"/><stop offset="1" stop-color="#d5e0e5"/></linearGradient>
+ <linearGradient id="obj-p-457" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#d5e0e5"/><stop offset="1" stop-color="#5d8494"/></linearGradient>
+ <filter id="shadow-p-457" x="-30%" y="-30%" width="160%" height="170%"><feDropShadow dx="0" dy="18" stdDeviation="15" flood-color="#2c4854" flood-opacity=".14"/></filter>
+</defs>
+<rect width="600" height="600" rx="38" fill="url(#bg-p-457)"/>
+<circle cx="153" cy="110" r="34" fill="#5d8494" opacity=".16"/><circle cx="458" cy="170" r="58" fill="#5d8494" opacity=".12"/><circle cx="505" cy="475" r="27" fill="#5d8494" opacity=".15"/><path d="M70 80v15" stroke="#2c4854" stroke-opacity=".12" stroke-width="4" stroke-linecap="round"/><path d="M94 80v15" stroke="#2c4854" stroke-opacity=".12" stroke-width="4" stroke-linecap="round"/><path d="M118 80v15" stroke="#2c4854" stroke-opacity=".12" stroke-width="4" stroke-linecap="round"/><path d="M142 80v15" stroke="#2c4854" stroke-opacity=".12" stroke-width="4" stroke-linecap="round"/><circle cx="459" cy="206" r="9" fill="#5d8494" opacity=".18"/><path d="M448 228q11 -15 22 0" fill="none" stroke="#2c4854" stroke-width="3" opacity=".28"/>
+<path d="M0 470c110-48 195-16 292 0s194 9 308-30v160H0z" fill="#e8eef1" opacity=".8"/>
+<ellipse cx="300" cy="475" rx="178" ry="27" fill="#2c4854" opacity=".10"/>
+<g transform="translate(0 4) rotate(2 300 305)" filter="url(#shadow-p-457)"><rect x="155" y="200" width="290" height="270" rx="42" fill="#5d8494" stroke="#2c4854" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/><path d="M235 205v-45c0-42 28-65 65-65s65 23 65 65v45" fill="none" stroke="#2c4854" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/><path d="M235 240v185m130-185v185" fill="none" stroke="#2c4854" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/><circle cx="205" cy="470" r="13" fill="#2c4854"/><circle cx="395" cy="470" r="13" fill="#2c4854"/></g>
+<rect x="34" y="500" width="532" height="72" rx="20" fill="#fff" opacity=".80"/>
+<text x="54" y="528" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="700" letter-spacing="2.2" fill="#5d8494">TRAVEL &amp; LUGGAGE · ILLUSTRATION</text>
+<text x="54" y="554" font-family="Arial,Helvetica,sans-serif" font-size="19" font-weight="700" fill="#2c4854">Journey Hanging Toiletry Bag</text>
+<text x="548" y="554" text-anchor="end" font-family="Arial,Helvetica,sans-serif" font-size="10" font-weight="700" fill="#2c4854" opacity=".50">P-457</text>
+</svg>

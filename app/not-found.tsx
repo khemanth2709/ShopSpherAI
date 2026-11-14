@@ -1,0 +1,2 @@
+import Link from 'next/link';
+export default function NotFound(){return <main className="section-shell flex min-h-[60vh] flex-col items-center justify-center py-12 text-center"><p className="eyebrow text-moss">404 · Not found</p><h1 className="mt-3 text-3xl font-semibold">We couldn’t find that page.</h1><p className="mt-3 text-sm text-ink/55">The link may be old or the item may no longer be in the demo catalogue.</p><Link href="/" className="pill-button mt-5 bg-ink text-white">Back to ShopSphere</Link></main>}

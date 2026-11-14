@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" role="img" aria-labelledby="title desc" data-product-id="p-605" data-product-name="Pro RGB Gaming Mouse Pad" data-product-category="GAMING">
+<title id="title">Pro RGB Gaming Mouse Pad product illustration</title><desc id="desc">A unique gaming illustration for Pro RGB Gaming Mouse Pad. This is an original generic product illustration, not a supplier photograph.</desc>
+<defs>
+ <linearGradient id="bg-p-605" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ece9f5"/><stop offset="1" stop-color="#dcd5ef"/></linearGradient>
+ <linearGradient id="obj-p-605" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#dcd5ef"/><stop offset="1" stop-color="#7562ab"/></linearGradient>
+ <filter id="shadow-p-605" x="-30%" y="-30%" width="160%" height="170%"><feDropShadow dx="0" dy="18" stdDeviation="15" flood-color="#3d315e" flood-opacity=".14"/></filter>
+</defs>
+<rect width="600" height="600" rx="38" fill="url(#bg-p-605)"/>
+<circle cx="108" cy="110" r="34" fill="#7562ab" opacity=".16"/><circle cx="488" cy="170" r="58" fill="#7562ab" opacity=".12"/><circle cx="505" cy="475" r="27" fill="#7562ab" opacity=".15"/><path d="M70 80v15" stroke="#3d315e" stroke-opacity=".12" stroke-width="4" stroke-linecap="round"/><path d="M94 80v15" stroke="#3d315e" stroke-opacity=".12" stroke-width="4" stroke-linecap="round"/><path d="M118 80v15" stroke="#3d315e" stroke-opacity=".12" stroke-width="4" stroke-linecap="round"/><path d="M142 80v15" stroke="#3d315e" stroke-opacity=".12" stroke-width="4" stroke-linecap="round"/><circle cx="175" cy="230" r="14" fill="#7562ab" opacity=".18"/><path d="M164 252q11 -15 22 0" fill="none" stroke="#3d315e" stroke-width="3" opacity=".28"/>
+<path d="M0 470c110-48 195-16 292 0s194 9 308-30v160H0z" fill="#ece9f5" opacity=".8"/>
+<ellipse cx="300" cy="475" rx="178" ry="27" fill="#3d315e" opacity=".10"/>
+<g transform="translate(0 4) rotate(-1 300 305)" filter="url(#shadow-p-605)"><rect x="205" y="120" width="190" height="350" rx="36" fill="#7562ab" stroke="#3d315e" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/><rect x="222" y="155" width="156" height="265" rx="22" fill="#dcd5ef"/><circle cx="300" cy="442" r="10" fill="#dcd5ef"/></g>
+<rect x="34" y="500" width="532" height="72" rx="20" fill="#fff" opacity=".80"/>
+<text x="54" y="528" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="700" letter-spacing="2.2" fill="#7562ab">GAMING · ILLUSTRATION</text>
+<text x="54" y="554" font-family="Arial,Helvetica,sans-serif" font-size="19" font-weight="700" fill="#3d315e">Pro RGB Gaming Mouse Pad</text>
+<text x="548" y="554" text-anchor="end" font-family="Arial,Helvetica,sans-serif" font-size="10" font-weight="700" fill="#3d315e" opacity=".50">P-605</text>
+</svg>

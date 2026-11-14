@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" role="img" aria-labelledby="title desc" data-product-id="p-705" data-product-name="Modern Slim Console Table" data-product-category="FURNITURE">
+<title id="title">Modern Slim Console Table product illustration</title><desc id="desc">A unique furniture illustration for Modern Slim Console Table. This is an original generic product illustration, not a supplier photograph.</desc>
+<defs>
+ <linearGradient id="bg-p-705" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#eeeae3"/><stop offset="1" stop-color="#dfd8ca"/></linearGradient>
+ <linearGradient id="obj-p-705" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#dfd8ca"/><stop offset="1" stop-color="#927f61"/></linearGradient>
+ <filter id="shadow-p-705" x="-30%" y="-30%" width="160%" height="170%"><feDropShadow dx="0" dy="18" stdDeviation="15" flood-color="#4d4232" flood-opacity=".14"/></filter>
+</defs>
+<rect width="600" height="600" rx="38" fill="url(#bg-p-705)"/>
+<circle cx="117" cy="110" r="34" fill="#927f61" opacity=".16"/><circle cx="482" cy="170" r="58" fill="#927f61" opacity=".12"/><circle cx="505" cy="475" r="27" fill="#927f61" opacity=".15"/><path d="M70 80v15" stroke="#4d4232" stroke-opacity=".12" stroke-width="4" stroke-linecap="round"/><path d="M94 80v15" stroke="#4d4232" stroke-opacity=".12" stroke-width="4" stroke-linecap="round"/><path d="M118 80v15" stroke="#4d4232" stroke-opacity=".12" stroke-width="4" stroke-linecap="round"/><path d="M142 80v15" stroke="#4d4232" stroke-opacity=".12" stroke-width="4" stroke-linecap="round"/><path d="M166 80v15" stroke="#4d4232" stroke-opacity=".12" stroke-width="4" stroke-linecap="round"/><circle cx="275" cy="240" r="10" fill="#927f61" opacity=".18"/><path d="M264 262q11 -15 22 0" fill="none" stroke="#4d4232" stroke-width="3" opacity=".28"/>
+<path d="M0 470c110-48 195-16 292 0s194 9 308-30v160H0z" fill="#eeeae3" opacity=".8"/>
+<ellipse cx="300" cy="475" rx="178" ry="27" fill="#4d4232" opacity=".10"/>
+<g transform="translate(0 4) rotate(0 300 305)" filter="url(#shadow-p-705)"><path d="M150 300h300v150H150zM175 245h250c30 0 45 20 45 55H130c0-35 15-55 45-55z" fill="#927f61" stroke="#4d4232" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/><path d="M175 450v45m250-45v45" stroke="#4d4232" stroke-width="9" stroke-linecap="round" stroke-linejoin="round" fill="none"/></g>
+<rect x="34" y="500" width="532" height="72" rx="20" fill="#fff" opacity=".80"/>
+<text x="54" y="528" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="700" letter-spacing="2.2" fill="#927f61">FURNITURE · ILLUSTRATION</text>
+<text x="54" y="554" font-family="Arial,Helvetica,sans-serif" font-size="19" font-weight="700" fill="#4d4232">Modern Slim Console Table</text>
+<text x="548" y="554" text-anchor="end" font-family="Arial,Helvetica,sans-serif" font-size="10" font-weight="700" fill="#4d4232" opacity=".50">P-705</text>
+</svg>

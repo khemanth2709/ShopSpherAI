@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root { color-scheme: light; }
+* { box-sizing: border-box; }
+html { scroll-behavior: smooth; }
+body { margin: 0; background: #f7f7f2; color: #18231d; font-family: Arial, Helvetica, sans-serif; }
+button, input, select { font: inherit; }
+button { -webkit-tap-highlight-color: transparent; }
+::selection { background: #c6f277; color: #18231d; }
+
+@layer components {
+  .section-shell { @apply mx-auto w-full max-w-7xl px-4 sm:px-6 lg:px-8; }
+  .eyebrow { @apply text-[10px] font-bold uppercase tracking-[0.22em]; }
+  .pill-button { @apply inline-flex items-center justify-center gap-2 rounded-full px-5 py-3 text-sm font-semibold transition duration-200; }
+  .icon-button { @apply relative inline-flex h-10 w-10 items-center justify-center rounded-full border border-black/10 bg-white text-ink transition hover:bg-sage; }
+}
+
+@keyframes rise-in { from { opacity: 0; transform: translateY(12px); } to { opacity: 1; transform: translateY(0); } }
+.animate-rise-in { animation: rise-in .45s ease-out both; }
+@keyframes toast-progress { from { transform: scaleX(1); } to { transform: scaleX(0); } }
+@keyframes pulse-soft { 0%,100% { box-shadow: 0 0 0 0 rgba(198,242,119,.3); } 50% { box-shadow: 0 0 0 7px rgba(198,242,119,0); } }
+.pulse-soft { animation: pulse-soft 2s infinite; }
+.skeleton-box { background: linear-gradient(90deg, #e8ebe4 25%, #f4f5f0 37%, #e8ebe4 63%); background-size: 400% 100%; animation: skeleton-shimmer 1.4s ease infinite; }
+@keyframes skeleton-shimmer { 0% { background-position: 100% 50%; } 100% { background-position: 0 50%; } }
+@media (prefers-reduced-motion: reduce) { *, *::before, *::after { scroll-behavior: auto !important; animation-duration: .01ms !important; animation-iteration-count: 1 !important; transition-duration: .01ms !important; } }
